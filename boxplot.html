@@ -24,19 +24,36 @@
     <div>
         <h4>Principais causas de morte no Brasil - Dados de 1990 a 2017</h4>
         <h5>Taxa de Morte por ano</h5>
-        Number of bins: <input type="number" min="1" max="100" step="10" value="20" id="nBin"><br />
-        Diseases (Death): <select id="disease" onchange="update()">
-            <option value="All" selected>All</option>
-        </select><br />
-        Sex: <select id="sex" onchange="update()">
-            <option value="Both" selected>All</option>
-            <option value="Female" selected>Female</option>
-            <option value="Male" selected>Male</option>
-        </select><br />
-        Show points: <input type="checkbox" id="showPoints" value="Boat" checked onchange="update()"><br />
+        <hr />
+        <table>
+            <tr>
+                <td>Diseases (Death):</td>
+                <td>
+                    <select id="disease" onchange="update()">
+                        <option value="All" selected>All</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Sex:</td>
+                <td>
+                    <select id="sex" onchange="update()">
+                        <option value="Both" selected>All</option>
+                        <option value="Female" selected>Female</option>
+                        <option value="Male" selected>Male</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Show points:</td>
+                <td>
+                    <input type="checkbox" id="showPoints" value="Boat" checked onchange="update()">
+                </td>
+            </tr>
+        </table>
+        <hr />
+        <svg id="boxplot"></svg>
 
-        <svg id="histogram"></svg>
-        
         <br />
         <table>
             <tr>
@@ -101,7 +118,7 @@
 
             // gambi pra remover o grafico antigo
             // vi que existem formas mais descentes, porem nao deu tempo :)
-            document.getElementById("histogram").innerHTML = ""
+            document.getElementById("boxplot").innerHTML = ""
 
             // set the dimensions and margins of the graph
             var margin = { top: 10, right: 30, bottom: 150, left: 90 },
@@ -109,7 +126,7 @@
                 height = 500 - margin.top - margin.bottom;
 
 
-            var svg = d3.select("#histogram")
+            var svg = d3.select("#boxplot")
                 .attr("width", width + margin.left + margin.right)
                 .attr("height", height + margin.top + margin.bottom)
                 .append("g")
@@ -131,7 +148,7 @@
                 })
                 .entries(filteredData)
 
-            var xDomain = sumstat.map(function(row) {
+            var xDomain = sumstat.map(function (row) {
                 return row.key;
             });
 
@@ -148,14 +165,14 @@
                 .style("text-anchor", xDomain.length > 1 ? "end" : "middle")
                 .attr("dx", xDomain.length > 1 ? "-.8em" : "0em")
                 .attr("dy", xDomain.length > 1 ? ".15em" : "1em")
-                .attr("transform", xDomain.length>1?"rotate(-45)":"");
-                
+                .attr("transform", xDomain.length > 1 ? "rotate(-45)" : "");
+
 
             // Show the Y scale
             var y = d3.scaleLinear()
                 .domain([
-                    Math.ceil(d3.min(sumstat, function (d) { return +d.value.min; }))-1, 
-                    Math.ceil(d3.max(sumstat, function(d) { return +d.value.max;}))])
+                    Math.ceil(d3.min(sumstat, function (d) { return +d.value.min; })) - 1,
+                    Math.ceil(d3.max(sumstat, function (d) { return +d.value.max; }))])
                 .range([height, 0])
             svg.append("g").call(d3.axisLeft(y))
 
@@ -172,7 +189,7 @@
                 .attr("stroke", "black")
                 .style("width", 40)
 
-            
+
             // rectangle for the main box
             var boxWidth = Math.min(width / xDomain.length - 10, 100);
             svg

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<header>
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 11px;
+            font-weight: 300;
+            fill: #242424;
+            text-align: center;
+            text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+            cursor: default;
+        }
+
+        .legend {
+            font-family: 'Raleway', sans-serif;
+            fill: #333333;
+        }
+
+        .tooltip {
+            fill: #333333;
+        }
+    </style>
+    <!-- Google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300" rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+</header>
+
+<body>
+    <div>
+        <h1>Principais causas de morte no Brasil - Dados de 1990 a 2017</h4>
+            <h3>Taxa de Morte por ano</h5>
+                <hr />
+                <table>
+                    <tr>
+                        <td>Year:</td>
+                        <td>
+                            <select id="year" onchange="update()"></select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Sex:</td>
+                        <td>
+                            <span style="background-color: #CCFF99;">Female</span><br />
+                            <span style="background-color: #FFCC99">Male</span>
+                        </td>
+                    </tr>
+                </table>
+                <hr />
+
+                <div class="radarChart"></div>
+                <script src="radarChart.js"></script>
+
+                <legend id="legend" style="text-align: left;">
+                </legend>
+
+                <br />
+
+                <hr />
+                <sub>
+                    Desenvolvido por Joaquim Pessôa Filho,<br />
+                    <b>Fonte dos dados:</b><br />
+                    <i>
+                        Global Burden of Disease Collaborative Network.<br />
+                        Global Burden of Disease Study 2017 (GBD 2017) Results.<br />
+                        Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.<br />
+                        Available from <a
+                            href="http://ghdx.healthdata.org/gbd-results-tool">http://ghdx.healthdata.org/gbd-results-tool</a>.
+                    </i>
+                </sub>
+    </div>
+
+    <!-- load the d3.js library -->
+    <script src="d3.min.js"></script>
+    <script>
+        var data = null;
+
+        function update(nBins) {
+
+            if (data == null) {
+                return;
+            }
+
+            // Filtrando a doença escolhida
+            var selectedYear = document.getElementById("year").value;
+
+            var filteredData = data.filter(function (row) {
+                return row.year == selectedYear && row.sex_name != "Both";
+            })
+
+            //Cria a legenda
+            var legend = document.getElementById("legend");
+            legend.innerHTML = "";
+            filteredData.forEach(element => {
+                legend.innerHTML += element.cause + "<br />";
+            });
+
+            // set the dimensions and margins of the graph
+            var margin = { top: 60, right: 50, bottom: 60, left: 50 },
+                width = 960 - margin.left - margin.right,
+                height = 500 - margin.top - margin.bottom;
+
+
+            var svg = d3.select("#radar")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform",
+                    "translate(" + margin.left + "," + margin.top + ")");
+
+            ////////////////////////////////////////////////////////////// 
+            ////////////////////////// Data ////////////////////////////// 
+            ////////////////////////////////////////////////////////////// 
+
+            var radarDataAll = filteredData.map(function (row) {
+                return { axis: row.cause_id, value: Number(row.rate).toFixed(2), sex: row.sex_name }
+            });
+
+            radarDataAll = radarDataAll.sort(function (a, b) {
+                return a.axis > b.axis;
+            });
+
+            // Remover as duas causa que tem valores muito altos
+            // e atrapaham a visualizacao
+            radarDataAll = radarDataAll.filter(function (row) {
+                return row.axis != "491" && row.axis != "490";
+            });
+
+            const radarDataFemale = radarDataAll.filter(function (row) {
+                return row.sex == "Female";
+            });
+
+            const radarDataMale = radarDataAll.filter(function (row) {
+                return row.sex == "Male";
+            });
+
+            ////////////////////////////////////////////////////////////// 
+            //////////////////// Draw the Chart ////////////////////////// 
+            //////////////////////////////////////////////////////////////
+
+
+
+            var color = d3.scaleLinear()
+                .range(["#CCFF99", "#FFCC99"]);
+
+            var radarChartOptions = {
+                w: width,
+                h: height,
+                margin: margin,
+                maxValue: Math.max.apply(Math, radarDataAll.map(function (o) { return o.value; })),
+                levels: 2,
+                roundStrokes: false,
+                color: color
+            };
+            //Call function to draw the Radar chart
+            RadarChart(".radarChart", [radarDataFemale, radarDataMale], radarChartOptions);
+        }
+
+
+        d3.csv("IHME-GBD_2017_DATA-1d16de0f-1-adaptado.csv").then(function (newData) {
+            data = newData
+
+            var years = d3.map(data, function (d) { return d.year; }).keys();
+            years = years.sort();
+
+            d3.select("#year").selectAll("option")
+                .data(years)
+                .enter()
+                .append("option")
+                .text(function (d) { return d; })
+                .attr("value", function (d) { return d; });
+            update();
+        });
+
+
+        // Listen to the button -> update if user change it
+        d3.select("#nBin").on("input", function () {
+            update(+this.value);
+        });
+    </script>
+</body>

@@ -11,7 +11,7 @@ Desenvolvimento de gráficos com a biblioteca D3JS.
 3. Barras Empilhadas
 4. [Boxplot](boxplot.html)
 5. Dispersão
-6. Radar
+6. [Radar](radar.html)
 
 ## Referências
 
