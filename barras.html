@@ -46,7 +46,7 @@
                     </tr>
                 </table>
                 <hr />
-                <svg id="boxplot"></svg>
+                <svg id="barras"></svg>
 
                 <hr />
                 <sub>
@@ -68,7 +68,6 @@
 
         var data = null;
 
-
         function update(nBins) {
 
             if (data == null) {
@@ -80,12 +79,16 @@
 
             var filteredData = data.filter(function (row) {
                 return row.year == selectedYear;
-            })
+            });
+
+            filteredData = filteredData.sort(function(a,b) {
+                return a.cause > b.cause;
+            });
 
 
             // gambi pra remover o grafico antigo
             // vi que existem formas mais descentes, porem nao deu tempo :)
-            document.getElementById("boxplot").innerHTML = ""
+            document.getElementById("barras").innerHTML = ""
 
             // set the dimensions and margins of the graph
             var margin = { top: 10, right: 30, bottom: 150, left: 90 },
@@ -93,7 +96,7 @@
                 height = 500 - margin.top - margin.bottom;
 
 
-            var svg = d3.select("#boxplot")
+            var svg = d3.select("#barras")
                 .attr("width", width + margin.left + margin.right)
                 .attr("height", height + margin.top + margin.bottom)
                 .append("g")
