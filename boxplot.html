@@ -2,6 +2,16 @@
 <meta charset="utf-8">
 <header>
     <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 11px;
+            font-weight: 300;
+            fill: #242424;
+            text-align: center;
+            text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+            cursor: default;
+        }
+
         .axis path,
         .axis line {
             fill: none;
@@ -17,74 +27,82 @@
             fill: rgba(236, 16, 16, 0.5);
         }
     </style>
+    <!-- Google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300" rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 </header>
 
 <body>
-
     <div>
-        <h4>Principais causas de morte no Brasil - Dados de 1990 a 2017</h4>
-        <h5>Taxa de Morte por ano</h5>
-        <hr />
-        <table>
-            <tr>
-                <td>Diseases (Death):</td>
-                <td>
-                    <select id="disease" onchange="update()">
-                        <option value="All" selected>All</option>
-                    </select>
-                </td>
-            </tr>
-            <tr>
-                <td>Sex:</td>
-                <td>
-                    <select id="sex" onchange="update()">
-                        <option value="Both" selected>All</option>
-                        <option value="Female" selected>Female</option>
-                        <option value="Male" selected>Male</option>
-                    </select>
-                </td>
-            </tr>
-            <tr>
-                <td>Show points:</td>
-                <td>
-                    <input type="checkbox" id="showPoints" value="Boat" checked onchange="update()">
-                </td>
-            </tr>
-        </table>
-        <hr />
-        <svg id="boxplot"></svg>
+        <h1>Principais causas de morte no Brasil - Dados de 1990 a 2017</h4>
+            <h3>Taxa de Morte por ano</h5>
+                <hr />
+                <table style="text-align: left;">
+                    <tr>
+                        <td>Diseases (Death):</td>
+                        <td>
+                            <select id="disease" onchange="update()">
+                                <option value="All" selected>All</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Sex:</td>
+                        <td>
+                            <select id="sex" onchange="update()">
+                                <option value="Both" selected>All</option>
+                                <option value="Female">Female</option>
+                                <option value="Male">Male</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Show points:</td>
+                        <td>
+                            <input type="checkbox" id="showPoints" value="Boat" checked onchange="update()">
+                        </td>
+                    </tr>
+                </table>
+                <hr />
+                <svg id="boxplot"></svg>
 
-        <br />
-        <table>
-            <tr>
-                <td>Mean:</td>
-                <td id="mean"></td>
-            </tr>
-            <tr>
-                <td>Median:</td>
-                <td id="median"></td>
-            </tr>
-            <tr>
-                <td>Variance:</td>
-                <td id="variance"></td>
-            </tr>
-            <tr>
-                <td>Deviation:</td>
-                <td id="deviation"></td>
-            </tr>
-        </table>
-        <br />
-        <sub>
-            Desenvolvido por Joaquim Pessôa Filho,<br />
-            <b>Fonte dos dados:</b><br />
-            <i>
-                Global Burden of Disease Collaborative Network.<br />
-                Global Burden of Disease Study 2017 (GBD 2017) Results.<br />
-                Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.<br />
-                Available from <a
-                    href="http://ghdx.healthdata.org/gbd-results-tool">http://ghdx.healthdata.org/gbd-results-tool</a>.
-            </i>
-        </sub>
+                <br />
+                <table style="text-align: left;">
+                    <tr>
+                        <td>Q1:</td>
+                        <td id="q1"></td>
+                    </tr>
+                    <tr>
+                        <td>Median:</td>
+                        <td id="median"></td>
+                    </tr>
+                    <tr>
+                        <td>Q3:</td>
+                        <td id="q3"></td>
+                    </tr>
+                    <tr>
+                        <td>Min:</td>
+                        <td id="min"></td>
+                    </tr>
+                    <tr>
+                        <td>Max:</td>
+                        <td id="max"></td>
+                    </tr>
+                </table>
+                <br />
+                
+                <hr />
+                <sub>
+                    Desenvolvido por Joaquim Pessôa Filho,<br />
+                    <b>Fonte dos dados:</b><br />
+                    <i>
+                        Global Burden of Disease Collaborative Network.<br />
+                        Global Burden of Disease Study 2017 (GBD 2017) Results.<br />
+                        Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.<br />
+                        Available from <a
+                            href="http://ghdx.healthdata.org/gbd-results-tool">http://ghdx.healthdata.org/gbd-results-tool</a>.
+                    </i>
+                </sub>
     </div>
 
     <!-- load the d3.js library -->
@@ -108,12 +126,6 @@
                 return (row.cause == selectedDisease || selectedDisease == "All") &&
                     row.sex_name == selectedSex;
             })
-
-            //Mean and Median calculation
-            document.getElementById("mean").innerHTML = d3.mean(filteredData, function (d) { return d.rate });
-            document.getElementById("median").innerHTML = d3.mean(filteredData, function (d) { return d.rate });
-            document.getElementById("variance").innerHTML = d3.variance(filteredData, function (d) { return d.rate });
-            document.getElementById("deviation").innerHTML = d3.deviation(filteredData, function (d) { return d.rate });
 
 
             // gambi pra remover o grafico antigo
@@ -151,6 +163,15 @@
             var xDomain = sumstat.map(function (row) {
                 return row.key;
             });
+
+            if(sumstat.length == 1) {
+                //Mean and Median calculation
+                document.getElementById("q1").innerHTML = sumstat[0].value.q1;
+                document.getElementById("median").innerHTML = sumstat[0].value.median;
+                document.getElementById("q3").innerHTML = sumstat[0].value.q3;
+                document.getElementById("max").innerHTML = sumstat[0].value.max;
+                document.getElementById("min").innerHTML = sumstat[0].value.min;
+            }
 
             // Show the X scale
             var x = d3.scaleBand()

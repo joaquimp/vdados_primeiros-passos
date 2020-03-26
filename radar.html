@@ -12,12 +12,11 @@
             cursor: default;
         }
 
-        .legend {
-            font-family: 'Raleway', sans-serif;
+        .tooltip {
             fill: #333333;
         }
 
-        .tooltip {
+        .axisWrapper {
             fill: #333333;
         }
     </style>
@@ -41,8 +40,11 @@
                     <tr>
                         <td>Sex:</td>
                         <td>
-                            <span style="background-color: #CCFF99;">Female</span><br />
-                            <span style="background-color: #FFCC99">Male</span>
+                            <select id="sex" onchange="update()">
+                                <option value="Both" selected>All</option>
+                                <option value="Female">Female</option>
+                                <option value="Male">Male</option>
+                            </select>
                         </td>
                     </tr>
                 </table>
@@ -112,8 +114,15 @@
             ////////////////////////// Data ////////////////////////////// 
             ////////////////////////////////////////////////////////////// 
 
+            var max = Math.max.apply(Math, filteredData.map(function (o) { return o.rate; }));
+            var scale = d3.scaleLinear().domain([0, max]).range([0, 1]);
+
             var radarDataAll = filteredData.map(function (row) {
-                return { axis: row.cause_id, value: Number(row.rate).toFixed(2), sex: row.sex_name }
+                return { 
+                    axis: row.cause_id, 
+                    value: scale(row.rate), 
+                    sex: row.sex_name 
+                };
             });
 
             radarDataAll = radarDataAll.sort(function (a, b) {
@@ -121,7 +130,7 @@
             });
 
             // Remover as duas causa que tem valores muito altos
-            // e atrapaham a visualizacao
+            // e atrapaham a visualizacao (ids 491 and 490)
             radarDataAll = radarDataAll.filter(function (row) {
                 return row.axis != "491" && row.axis != "490";
             });
@@ -141,19 +150,32 @@
 
 
             var color = d3.scaleLinear()
-                .range(["#CCFF99", "#FFCC99"]);
+                .range(["#eb6157", "#FFCC99"]);
+
+            
+            //show selected data
+            var radarData = [];
+            if (document.getElementById("sex").value == "Both") {
+                radarData = [radarDataFemale, radarDataMale];
+            } else if (document.getElementById("sex").value == "Female") {
+                radarData = [radarDataFemale];
+            } else {
+                radarData = [radarDataMale];
+            }
 
             var radarChartOptions = {
                 w: width,
                 h: height,
                 margin: margin,
                 maxValue: Math.max.apply(Math, radarDataAll.map(function (o) { return o.value; })),
-                levels: 2,
+                levels: 3,
                 roundStrokes: false,
                 color: color
             };
+
+
             //Call function to draw the Radar chart
-            RadarChart(".radarChart", [radarDataFemale, radarDataMale], radarChartOptions);
+            RadarChart(".radarChart", radarData, radarChartOptions);
         }
 
 
