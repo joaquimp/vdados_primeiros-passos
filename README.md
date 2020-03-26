@@ -17,8 +17,7 @@ Desenvolvimento de gráficos com a biblioteca D3JS.
 
 Os dados utilizados para estes exemplo foram:
 
-
-**IHME - GBD**
+fonte: **IHME - GBD**
 > Global Burden of Disease Collaborative Network.
 > Global Burden of Disease Study 2017 (GBD 2017) Results.
 > Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.

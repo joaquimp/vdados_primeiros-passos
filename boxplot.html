@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<header>
+    <style>
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: rgb(94, 1, 1);
+            shape-rendering: crispEdges;
+        }
+
+        .axis text {
+            font-size: 11px;
+        }
+
+        .bar {
+            fill: rgba(236, 16, 16, 0.5);
+        }
+    </style>
+</header>
+
+<body>
+
+    <div>
+        <h4>Principais causas de morte no Brasil - Dados de 1990 a 2017</h4>
+        <h5>Taxa de Morte por ano</h5>
+        Number of bins: <input type="number" min="1" max="100" step="10" value="20" id="nBin"><br />
+        Diseases (Death): <select id="disease" onchange="update()">
+            <option value="All" selected>All</option>
+        </select><br />
+        Sex: <select id="sex" onchange="update()">
+            <option value="Both" selected>All</option>
+            <option value="Female" selected>Female</option>
+            <option value="Male" selected>Male</option>
+        </select><br />
+        Show points: <input type="checkbox" id="showPoints" value="Boat" checked onchange="update()"><br />
+
+        <svg id="histogram"></svg>
+        
+        <br />
+        <table>
+            <tr>
+                <td>Mean:</td>
+                <td id="mean"></td>
+            </tr>
+            <tr>
+                <td>Median:</td>
+                <td id="median"></td>
+            </tr>
+            <tr>
+                <td>Variance:</td>
+                <td id="variance"></td>
+            </tr>
+            <tr>
+                <td>Deviation:</td>
+                <td id="deviation"></td>
+            </tr>
+        </table>
+        <br />
+        <sub>
+            Desenvolvido por Joaquim Pessôa Filho,<br />
+            <b>Fonte dos dados:</b><br />
+            <i>
+                Global Burden of Disease Collaborative Network.<br />
+                Global Burden of Disease Study 2017 (GBD 2017) Results.<br />
+                Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.<br />
+                Available from <a
+                    href="http://ghdx.healthdata.org/gbd-results-tool">http://ghdx.healthdata.org/gbd-results-tool</a>.
+            </i>
+        </sub>
+    </div>
+
+    <!-- load the d3.js library -->
+    <script src="d3.min.js"></script>
+    <script>
+
+        var data = null;
+
+
+        function update(nBins) {
+
+            if (data == null) {
+                return;
+            }
+
+            // Filtrando a doença escolhida
+            var selectedDisease = document.getElementById("disease").value;
+            var selectedSex = document.getElementById("sex").value;
+
+            var filteredData = data.filter(function (row) {
+                return (row.cause == selectedDisease || selectedDisease == "All") &&
+                    row.sex_name == selectedSex;
+            })
+
+            //Mean and Median calculation
+            document.getElementById("mean").innerHTML = d3.mean(filteredData, function (d) { return d.rate });
+            document.getElementById("median").innerHTML = d3.mean(filteredData, function (d) { return d.rate });
+            document.getElementById("variance").innerHTML = d3.variance(filteredData, function (d) { return d.rate });
+            document.getElementById("deviation").innerHTML = d3.deviation(filteredData, function (d) { return d.rate });
+
+
+            // gambi pra remover o grafico antigo
+            // vi que existem formas mais descentes, porem nao deu tempo :)
+            document.getElementById("histogram").innerHTML = ""
+
+            // set the dimensions and margins of the graph
+            var margin = { top: 10, right: 30, bottom: 150, left: 90 },
+                width = 960 - margin.left - margin.right,
+                height = 500 - margin.top - margin.bottom;
+
+
+            var svg = d3.select("#histogram")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform",
+                    "translate(" + margin.left + "," + margin.top + ")");
+
+
+            // Compute quartiles, median, inter quantile range min and max --> these info are then used to draw the box.
+            var sumstat = d3.nest() // nest function allows to group the calculation per level of a factor
+                .key(function (d) { return d.cause; })
+                .rollup(function (d) {
+                    q1 = d3.quantile(d.map(function (g) { return g.rate; }).sort(d3.ascending), .25)
+                    median = d3.quantile(d.map(function (g) { return g.rate; }).sort(d3.ascending), .5)
+                    q3 = d3.quantile(d.map(function (g) { return g.rate; }).sort(d3.ascending), .75)
+                    interQuantileRange = q3 - q1
+                    min = q1 - 1.5 * interQuantileRange
+                    max = q3 + 1.5 * interQuantileRange
+                    return ({ q1: q1, median: median, q3: q3, interQuantileRange: interQuantileRange, min: min, max: max })
+                })
+                .entries(filteredData)
+
+            var xDomain = sumstat.map(function(row) {
+                return row.key;
+            });
+
+            // Show the X scale
+            var x = d3.scaleBand()
+                .range([0, width])
+                .domain(xDomain)
+                .paddingInner(1)
+                .paddingOuter(.5)
+            svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x))
+                .selectAll("text")
+                .style("text-anchor", xDomain.length > 1 ? "end" : "middle")
+                .attr("dx", xDomain.length > 1 ? "-.8em" : "0em")
+                .attr("dy", xDomain.length > 1 ? ".15em" : "1em")
+                .attr("transform", xDomain.length>1?"rotate(-45)":"");
+                
+
+            // Show the Y scale
+            var y = d3.scaleLinear()
+                .domain([
+                    Math.ceil(d3.min(sumstat, function (d) { return +d.value.min; }))-1, 
+                    Math.ceil(d3.max(sumstat, function(d) { return +d.value.max;}))])
+                .range([height, 0])
+            svg.append("g").call(d3.axisLeft(y))
+
+            // Show the main vertical line
+            svg
+                .selectAll("vertLines")
+                .data(sumstat)
+                .enter()
+                .append("line")
+                .attr("x1", function (d) { return (x(d.key)) })
+                .attr("x2", function (d) { return (x(d.key)) })
+                .attr("y1", function (d) { return (y(d.value.min)) })
+                .attr("y2", function (d) { return (y(d.value.max)) })
+                .attr("stroke", "black")
+                .style("width", 40)
+
+            
+            // rectangle for the main box
+            var boxWidth = Math.min(width / xDomain.length - 10, 100);
+            svg
+                .selectAll("boxes")
+                .data(sumstat)
+                .enter()
+                .append("rect")
+                .attr("x", function (d) { return (x(d.key) - boxWidth / 2) })
+                .attr("y", function (d) { return (y(d.value.q3)) })
+                .attr("height", function (d) { return (y(d.value.q1) - y(d.value.q3)) })
+                .attr("width", boxWidth)
+                .attr("stroke", "black")
+                .style("fill", "#69b3a2")
+
+            // Show the median
+            svg
+                .selectAll("medianLines")
+                .data(sumstat)
+                .enter()
+                .append("line")
+                .attr("x1", function (d) { return (x(d.key) - boxWidth / 2) })
+                .attr("x2", function (d) { return (x(d.key) + boxWidth / 2) })
+                .attr("y1", function (d) { return (y(d.value.median)) })
+                .attr("y2", function (d) { return (y(d.value.median)) })
+                .attr("stroke", "black")
+                .style("width", 80)
+
+            if (document.getElementById("showPoints").checked) {
+                // Add individual points with jitter
+                var jitterWidth = 50
+                svg
+                    .selectAll("indPoints")
+                    .data(filteredData)
+                    .enter()
+                    .append("circle")
+                    .attr("cx", function (d) { return (x(d.cause) - jitterWidth / 2 + Math.random() * jitterWidth) })
+                    .attr("cy", function (d) { return (y(d.rate)) })
+                    .attr("r", 2)
+                    .style("fill", "white")
+                    .attr("stroke", "black")
+            }
+        }
+
+
+        d3.csv("IHME-GBD_2017_DATA-1d16de0f-1-adaptado.csv").then(function (newData) {
+            data = newData
+
+            var diseases = d3.map(data, function (d) { return d.cause; }).keys();
+            diseases = diseases.sort();
+
+            d3.select("#disease").selectAll("option")
+                .data(diseases)
+                .enter()
+                .append("option")
+                .text(function (d) { return d; })
+                .attr("value", function (d) { return d; });
+            update();
+        });
+
+
+        // Listen to the button -> update if user change it
+        d3.select("#nBin").on("input", function () {
+            update(+this.value);
+        });
+    </script>
+</body>
