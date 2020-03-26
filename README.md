@@ -1,5 +1,7 @@
 # Disciplina de Visualização de Dados
 
+[Abrir no github pages](https://joaquimp.github.io/VisualizacaoDados/)
+
 ## Atividade
 
 Desenvolvimento de gráficos com a biblioteca D3JS.
