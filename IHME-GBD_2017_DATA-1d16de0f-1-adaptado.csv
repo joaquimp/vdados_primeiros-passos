@@ -1,0 +1,1765 @@
+measure_name,location_name,sex_name,age_name,cause,year,rate,upper,lower
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1991,9.674092715,17.85875293,6.828182322
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1991,5.78596574,10.12777175,4.202462664
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1991,7.707033166,13.98559431,5.514585656
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1991,18.10373337,18.60459981,17.57754619
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1991,23.37670813,23.89338672,22.7165343
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1991,20.7714074,21.16794402,20.25444478
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1991,0.000905538,0.00103294,0.000800153
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1991,0.004185287,0.004698988,0.003753999
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1991,0.00256481,0.002826666,0.002341897
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1991,11.02258788,12.10196012,9.808276729
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1991,8.281203834,9.408072657,7.264607917
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1991,9.63568213,10.47971765,8.881556908
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1991,33.88053803,34.61370346,33.17451918
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1991,23.39296216,24.73127641,22.63597399
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1991,28.57472205,29.23229348,28.06747958
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1991,36.73672068,37.79153691,35.68252892
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1991,18.42608242,18.94503091,17.74947829
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1991,27.47310453,28.17449217,26.67503032
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1991,5.815205911,6.035441318,5.637264072
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1991,0.854191553,0.92178659,0.586337691
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1991,3.305357153,3.440306688,3.144512525
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1991,24.19108601,24.75747238,23.59087734
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1991,26.75293754,27.41203555,26.07246238
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1991,25.48716367,25.92393832,25.02244632
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1991,13.59986256,17.33028159,11.32725707
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1991,4.972735957,7.096519926,3.675126488
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1991,9.235274707,12.10849959,7.469574147
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1991,56.39349792,62.2150259,52.45397236
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1991,39.03246408,43.09939744,36.54615146
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1991,47.61030035,52.17697592,45.15916058
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1991,30.60203616,34.46495765,27.37653641
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1991,22.43469016,26.04776558,19.58046819
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1991,26.47005795,29.01025874,23.98458613
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1991,192.5092905,195.2856174,189.9033675
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1991,156.7733225,158.9758032,154.5019974
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1991,174.4299486,176.6378696,172.2992994
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1991,33.66917117,34.77718648,32.17580075
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1991,13.31018206,14.03328798,12.70079526
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1991,23.36926477,24.08882295,22.41168733
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1991,10.9188522,11.92966672,8.713537739
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1991,7.634086053,8.530449562,6.796543464
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1991,9.257041601,10.02077927,8.068812097
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1991,52.28062544,57.38570491,47.47522714
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1991,42.69913828,46.63873497,39.47126073
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1991,47.43321281,51.30312053,44.15969691
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1991,80.89765874,85.48143666,78.98387206
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1991,66.87248938,68.07108138,65.49241489
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1991,73.80212316,76.30415515,72.29060827
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1991,0.547275947,0.574004271,0.523321703
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1991,1.347882333,1.418698706,1.278790817
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1991,0.952314272,0.994968057,0.909992109
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1991,27.36951242,37.04120965,15.40252176
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1991,25.46553267,32.43364426,13.95850204
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1991,26.40626159,33.59931933,15.77377603
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1991,57.32168793,58.45037479,55.88066193
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1991,7.92003441,8.140994105,7.645063303
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1991,32.32867847,32.92343804,31.52300439
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1991,1.330025927,2.302101007,0.565558275
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1991,1.359748372,2.353497257,0.593930949
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1991,1.345062941,1.998084869,0.741040443
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1991,47.33548941,48.72345373,45.50714483
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1991,13.28923833,13.95517623,12.60461006
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1991,30.11099965,30.95353113,28.9525808
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1990,197.6588482,200.3511287,195.1030256
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1990,160.0840515,161.9789649,158.2776789
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1990,178.6619782,180.4775593,176.9399018
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1990,33.91533446,34.66254525,33.19379182
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1990,23.30789603,24.40025655,22.62015755
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1990,28.55248097,29.10316168,28.0562856
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1990,36.71578274,37.65841865,35.90296479
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1990,18.16364727,18.57688869,17.73474246
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1990,27.33629069,27.88887998,26.79856689
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1990,12.03574259,13.34632711,10.52948387
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1990,9.089207105,10.4647442,7.750953978
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1990,10.54604852,11.5488294,9.631084371
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1990,34.43379223,35.63719262,32.82560362
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1990,13.58646399,14.33253877,12.91808491
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1990,23.89390857,24.67464897,22.86119511
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1990,58.46792604,59.67678998,56.92074233
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1990,8.02524946,8.252881379,7.731293362
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1990,32.96538027,33.60274438,32.08592895
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1990,11.82071887,15.703783,9.470654344
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1990,4.416564469,6.595809298,3.077283056
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1990,8.07736504,11.13322141,6.243242726
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1990,59.36252139,65.73511799,55.15959318
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1990,41.3461404,45.80777053,38.42469603
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1990,50.2538933,55.25413977,47.54047563
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1990,33.35444323,37.67358028,29.66436211
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1990,24.55916482,28.53342463,21.05611163
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1990,28.90777216,31.73048206,25.88014401
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1990,80.63301956,85.30571852,78.77732914
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1990,66.23899677,67.43742974,65.08930621
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1990,73.35576447,75.98771336,71.96654194
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1990,0.543536158,0.564351129,0.519962599
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1990,1.34085443,1.397045463,1.280650973
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1990,0.946640178,0.978921431,0.909207344
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1990,28.93245424,39.84133788,15.86124161
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1990,27.1098342,34.67704213,14.3530829
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1990,28.01098349,36.02394066,16.2917065
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1990,11.75282338,12.81799684,9.499381602
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1990,8.259200513,9.346179857,7.295290419
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1990,9.986535724,10.87716578,8.715953048
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1990,55.95381776,61.7831746,50.46611307
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1990,45.72057878,50.04729747,42.13694241
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1990,50.78015008,55.12444944,47.0517563
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1990,1.298119667,2.256845108,0.552708334
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1990,1.331916576,2.32050197,0.578337225
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1990,1.315206532,1.969529272,0.714492833
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1990,48.96976122,50.46341986,47.01160288
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1990,13.61834584,14.32353999,12.91078697
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1990,31.0969767,31.96677116,29.81088938
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1990,10.35634908,19.33991251,7.271927599
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1990,6.105779644,10.80423159,4.402930833
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1990,8.207368317,14.95570762,5.824243293
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1990,17.76851099,18.17424632,17.34208833
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1990,22.52891717,22.91202289,22.18190287
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1990,20.17525236,20.46643009,19.88801482
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1990,0.00104319,0.001195317,0.000926273
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1990,0.003452426,0.003922406,0.003097527
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1990,0.002261239,0.002492034,0.00207056
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1990,5.715026574,5.923419677,5.524141341
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1990,0.8271176,0.890821778,0.570698314
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1990,3.243823006,3.367714025,3.080519367
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1990,24.26657396,24.83772842,23.59435743
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1990,26.81601214,27.44055227,26.18355095
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1990,25.55550564,25.98213011,25.07933739
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1995,6.624054683,6.824047149,6.437327145
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1995,1.038497592,1.097331508,0.738475315
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1995,3.792362641,3.906997062,3.636283637
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1995,26.12272585,26.66901706,25.57097823
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1995,29.67994239,30.37959812,29.02951165
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1995,27.92611656,28.3719835,27.47138163
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1994,37.50579846,38.26978883,36.71656547
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1994,26.18224784,26.80107794,25.61738897
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1994,31.7673445,32.25203783,31.25896951
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1995,188.3429849,190.6180203,185.9075892
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1995,161.759409,163.3253298,160.1811561
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1995,174.8659944,176.2998416,173.3460137
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1994,6.450831548,6.647222321,6.27411103
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1994,0.979776708,1.037691341,0.688514124
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1994,3.678256286,3.788044506,3.529842581
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1994,26.02455476,26.60287331,25.50477569
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1994,29.18439433,29.86947594,28.54805829
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1994,27.62587174,28.07734816,27.15682929
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1993,1.395666845,2.433303246,0.602344868
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1993,1.42805876,2.477927365,0.627617059
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1993,1.412074134,2.07484391,0.7714514
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1993,45.99915986,47.19840282,44.35744579
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1993,13.10597831,13.66547254,12.49662641
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1993,29.3379669,30.02894843,28.31993901
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1993,19.38220254,19.75726007,19.01262465
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1993,25.20178552,25.5783889,24.83743925
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1993,22.32996224,22.6480863,22.03424626
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1993,0.00083362,0.000942846,0.000736564
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1993,0.0043724,0.00484307,0.003956568
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1993,0.002626098,0.002866626,0.0024095
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1995,19.79030905,20.22009121,19.31328739
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1995,26.52334024,26.92691516,26.16908038
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1995,23.20373237,23.55131614,22.87210988
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1995,0.000945245,0.001079081,0.000822998
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1995,0.00468624,0.00514142,0.004245064
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1995,0.002841805,0.003083732,0.002604024
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1993,9.684144476,10.53399004,8.795462707
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1993,7.202619434,8.023604626,6.519142782
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1993,8.427191952,9.107555631,7.882190791
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1993,59.38840002,60.49915645,57.99476868
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1993,8.230349382,8.439942841,7.968384811
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1993,33.47560859,34.07637811,32.69806328
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1994,8.47790943,15.5698427,6.0976058
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1994,5.269395344,9.123812689,3.942327348
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1994,6.851925585,12.30787032,5.045851269
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1994,19.75239598,20.16157068,19.32677624
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1994,26.02237532,26.45438752,25.66475364
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1994,22.9298435,23.26903736,22.61387844
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1995,31.36717677,32.23514677,30.16846696
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1995,12.5223996,13.06360185,12.03651994
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1995,21.81350027,22.35083433,21.04454241
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1995,65.35469849,66.5042114,63.95321734
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1995,8.718690226,8.922379169,8.481189426
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1995,36.64212224,37.23882091,35.86221987
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1994,9.119360351,9.933958668,8.396053151
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1994,6.748191082,7.457045256,6.226607892
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1994,7.917719086,8.535775833,7.461429526
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1994,86.30113941,90.81529214,84.70391264
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1994,72.44599233,73.52548265,71.39796353
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1994,79.27974424,81.74546957,78.15819855
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1993,8.932673336,16.36081522,6.428913894
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1993,5.467696506,9.419116009,4.058968221
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1993,7.177578668,12.83544372,5.259282515
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1995,8.590811907,9.347202181,7.944159115
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1995,6.356171463,7.010804271,5.912353226
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1995,7.457923377,8.039957929,7.04251407
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1993,37.06194709,37.78606808,36.27755166
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1993,25.40627545,26.07659622,24.79722912
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1993,31.15806717,31.6648192,30.64002089
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1993,85.3683062,89.9644138,83.74909363
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1993,70.85278826,72.00809844,69.80556507
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1993,78.01584487,80.59939777,76.86962686
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1993,0.574184878,0.596341974,0.551544515
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1993,1.404244018,1.449351715,1.355109555
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1993,0.994629932,1.021965723,0.962665909
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1993,25.09378634,32.70643517,15.00497349
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1993,23.01642125,28.63369685,13.60707105
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1993,24.04155062,29.62575004,15.2058381
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1995,87.05411203,91.27528759,85.43568314
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1995,73.76518468,74.81025911,72.72999183
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1995,80.31706697,82.61554368,79.21922206
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1995,0.584261762,0.606864822,0.560875131
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1995,1.434962336,1.476659928,1.38797071
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1995,1.015538715,1.041826339,0.986733688
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1995,23.46999823,29.51521686,14.81723523
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1995,21.44116743,26.0129709,13.34530958
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1995,22.44144836,26.93448144,14.95148505
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1994,61.89001722,63.03824092,60.51359189
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1994,8.446207233,8.654360719,8.189275027
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1994,34.80621166,35.41476368,34.05482211
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1994,0.575942399,0.598979082,0.553087822
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1994,1.420600448,1.464006371,1.37428788
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1994,1.003991117,1.03051997,0.974130687
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1994,24.19131297,30.96292416,14.92208794
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1994,22.12912267,27.19358559,13.41142592
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1994,23.14625347,28.18629277,15.05440977
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1994,1.426473007,2.484360328,0.624906589
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1994,1.460198679,2.55065378,0.649122541
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1994,1.44356422,2.133922293,0.793948831
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1994,45.91307298,47.04695152,44.36954162
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1994,13.07036856,13.57210282,12.48108435
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1994,29.26932283,29.94217656,28.27826033
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1994,193.0360858,195.1807453,190.4423975
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1994,162.644739,164.1907791,161.0703287
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1994,177.6346141,179.0984464,176.0227728
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1994,31.65096211,32.53132856,30.42699334
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1994,12.7863211,13.37336883,12.25713704
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1994,22.09089764,22.66321295,21.26669539
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1993,37.38207838,38.12648386,36.66742634
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1993,18.83798693,19.18647182,18.46845302
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1993,27.98904702,28.42891361,27.55899906
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1994,37.46024234,38.21796874,36.70855777
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1994,18.93265312,19.29191513,18.56464712
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1994,28.07098615,28.51548213,27.63914975
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1995,1.443196906,2.516388381,0.637505137
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1995,1.478633035,2.606357061,0.647680275
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1995,1.461161847,2.191843572,0.805553225
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1995,45.947219,47.08155822,44.51961854
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1995,13.00610908,13.43907471,12.46260743
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1995,29.2471697,29.88857382,28.31603765
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1993,6.29433474,6.472494952,6.123305457
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1993,0.941775785,1.000580614,0.652491039
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1993,3.583134018,3.688248659,3.43514579
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1993,25.78323478,26.35866952,25.21634561
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1993,28.60079855,29.24879549,27.96065473
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1993,27.21039906,27.64968333,26.75412735
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1995,37.8636141,38.64323712,37.06487702
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1995,26.9676976,27.57797175,26.39217929
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1995,32.33974611,32.82914682,31.84196695
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1995,37.24082213,38.03926886,36.48472079
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1995,18.96160387,19.32290854,18.60981427
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1995,27.97386522,28.42005656,27.55002442
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1993,17.25472153,20.76725203,15.13495826
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1993,6.140469271,8.187753624,4.919316751
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1993,11.62508363,14.38625426,9.983931844
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1993,53.63965701,57.84887698,50.76087375
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1993,37.26521005,40.21843913,35.38769133
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1993,45.34560312,48.55948367,43.43793329
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1993,25.61915484,28.57118667,23.27832093
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1993,18.75017566,21.50292408,16.74044649
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1993,22.13985055,24.33179058,20.3809337
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1993,9.909245316,10.81784716,8.03738476
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1993,6.898148689,7.597607952,6.202491307
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1993,8.384051961,9.025897133,7.328203244
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1993,45.52490037,49.85654927,41.79885829
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1993,37.42065641,40.64835319,34.76911582
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1993,41.41990456,44.61186398,38.84968218
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1995,7.983211749,14.51513389,5.788019675
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1995,5.019499602,8.574362145,3.805750079
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1995,6.480708066,11.47103629,4.810748324
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1994,0.00088831,0.001010403,0.000780157
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1994,0.004517465,0.004984918,0.004094605
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1994,0.002727462,0.002972642,0.002497908
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1992,32.70150967,33.71705449,31.33069251
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1992,13.15034939,13.81688486,12.57971779
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1992,22.80405597,23.45233003,21.90756395
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1992,57.15034765,58.27319486,55.6851506
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1992,8.027698445,8.23943542,7.765394427
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1992,32.28281348,32.85859476,31.47217554
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1993,196.397331,198.5070981,193.8928778
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1993,162.4107083,163.9976005,160.7924742
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1993,179.1822836,180.598356,177.56221
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1993,32.06771023,32.98812908,30.76962182
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1993,13.04771443,13.66332656,12.48322374
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1993,22.43362179,23.01522402,21.55903817
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1995,19.44586743,22.962645,17.42265502
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1995,7.593620731,9.515491206,6.440204517
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1995,13.43717177,16.13832636,11.86577773
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1995,49.71597931,53.0735562,47.35114771
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1995,35.1324181,37.51812659,33.54893728
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1995,42.32259785,44.76910972,40.77598125
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1995,20.80015841,23.15492081,19.01824692
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1995,15.21445553,17.38866308,13.73614019
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1995,17.96839246,19.72954888,16.70449302
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1995,9.200425073,10.04364067,7.56909588
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1995,6.351213089,7.007897861,5.7843501
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1995,7.755969172,8.330479367,6.812949729
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1995,40.2594132,43.89010119,37.33383899
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1995,33.40091063,36.53079739,31.09917096
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1995,36.78238006,39.55647515,34.54836684
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1994,18.67533124,22.15403067,16.63987699
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1994,6.669785487,8.669140681,5.488306746
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1994,12.59126151,15.34129474,11.00055809
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1994,51.92652742,55.69022313,49.3185321
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1994,36.29203256,38.94878121,34.5512262
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1994,44.00340931,46.85660544,42.29113771
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1994,23.18136176,25.74492236,21.11707891
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1994,16.99907187,19.31032607,15.31169484
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1994,20.04835277,21.97523064,18.57081933
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1994,9.56221682,10.44521082,7.813936088
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1994,6.651371481,7.333859892,6.018717304
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1994,8.087083045,8.684093154,7.070481897
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1994,42.61513502,46.5607762,39.27871421
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1994,35.7223155,38.88760316,33.23800622
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1994,39.12204979,41.989949,36.75607137
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1992,10.30718511,11.2271786,9.264569835
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1992,7.728934165,8.693775723,6.908637566
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1992,9.001987924,9.762819028,8.356671785
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1992,82.84028643,87.4614799,81.04320673
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1992,68.53249525,69.66964662,67.28259527
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1992,75.5972022,78.1429052,74.23209984
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1992,193.3327613,195.8639833,190.7016547
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1992,158.3525613,160.3688021,156.4542509
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1992,175.6246097,177.4132203,173.8024919
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1992,46.09674413,47.36330211,44.37293939
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1992,13.03583878,13.65119056,12.38391504
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1992,29.36020393,30.11019132,28.28821985
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1992,0.560105844,0.58612635,0.536164242
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1992,1.369666987,1.428432298,1.309121447
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1992,0.969932873,1.006723685,0.931512194
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1992,26.03464853,34.58301714,15.14863194
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1992,24.02744799,30.262335,13.65569604
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1992,25.01853623,31.33785422,15.35537435
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1992,1.362917137,2.382841469,0.58373232
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1992,1.385981973,2.415944668,0.6096567
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1992,1.374593331,2.036804797,0.755622565
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1992,15.29773305,18.87671634,13.06098589
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1992,5.364242241,7.440936516,4.119548069
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1992,10.26906651,13.07673979,8.543715068
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1992,54.65471235,59.67352826,51.30949896
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1992,37.77023029,41.29352085,35.53618793
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1992,46.10722069,50.00664527,43.94313018
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1992,27.95908756,31.34174352,25.21566249
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1992,20.45826325,23.64360456,18.13101599
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1992,24.16191848,26.54688606,22.07825201
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1992,10.27263009,11.24131878,8.218271426
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1992,7.149767646,7.919748505,6.383987088
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1992,8.691732279,9.392841712,7.592633293
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1992,48.68476364,53.30145676,44.50556208
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1992,39.7879328,43.30030577,36.95472943
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1992,44.18088919,47.645953,41.25570053
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1992,35.10301917,35.836828,34.39072419
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1992,24.17232932,25.22715019,23.51039004
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1992,29.56953701,30.13919659,29.06462427
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1992,37.00590329,37.9448641,36.02832401
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1992,18.55828184,19.00749428,18.04398487
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1992,27.66709799,28.27106564,27.02503699
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1992,9.25529421,17.05433169,6.62149646
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1992,5.582139747,9.708836447,4.084267153
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1992,7.395820106,13.28604314,5.363996256
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1992,18.66494675,19.13936492,18.17260829
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1992,24.20208347,24.68134298,23.62198676
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1992,21.46803125,21.81805331,20.99543396
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1992,0.000668797,0.000767314,0.000585402
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1992,0.004134555,0.004597143,0.003737285
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1992,0.00242328,0.002657963,0.002209338
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1992,6.001386513,6.201073756,5.830802066
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1992,0.889185888,0.946871064,0.61765197
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1992,3.41341893,3.529015099,3.259313445
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1992,24.83541216,25.4056861,24.26461748
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1992,27.4683484,28.10394993,26.8337107
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1992,26.16829288,26.60275507,25.71180825
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1998,6.645113651,10.90111626,5.159349904
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1998,4.269694949,6.534580055,3.449490606
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1998,5.44024377,8.686114619,4.316208606
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1998,8.059462042,8.762228784,7.550782225
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1998,5.945928531,6.559590926,5.587259398
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1998,6.987426671,7.543520155,6.639019512
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1998,20.06847116,20.60513629,19.72801858
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1998,27.73929832,28.14010958,27.36854494
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1998,23.95930042,24.35687679,23.67125242
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1998,0.001351163,0.001524868,0.001193662
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1998,0.00438867,0.00476923,0.004013598
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1998,0.00289186,0.003109021,0.002682166
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1998,39.67045881,40.44355491,38.873776
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1998,28.37916363,28.99385591,27.77770927
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1998,33.9432405,34.38389106,33.44022463
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1998,36.87380996,37.54674034,36.19510062
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1998,18.72696608,19.08433382,18.34727111
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1998,27.66929137,28.04804995,27.29129991
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1998,92.43717937,95.52629085,90.07524086
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1998,78.00823975,78.92806924,77.05019839
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1998,85.11847183,86.72568219,83.9367141
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1998,0.597342681,0.616676928,0.575465855
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1998,1.467587261,1.505813968,1.424384371
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1998,1.038751803,1.061915482,1.013854027
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1998,22.03229371,26.42957694,15.0301221
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1998,20.22809313,23.56801428,13.53865045
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1998,21.11715949,24.30824225,15.05772965
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1997,38.63495148,39.40568269,37.85798847
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1997,27.75339536,28.45044755,27.10920113
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1997,33.11595135,33.60348476,32.61485165
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1997,36.93519102,37.64509998,36.17560778
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1997,18.74605899,19.11879813,18.36040174
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1997,27.70987243,28.15959693,27.27940492
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1997,8.14606697,8.895681961,7.592237911
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1997,6.010430179,6.641619371,5.619222518
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1997,7.062896549,7.613934425,6.697437435
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1997,90.16159849,93.54342668,88.19646603
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1997,76.31731091,77.29464709,75.29162607
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1997,83.13993504,84.8753496,82.00338834
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1998,7.514353264,7.736006811,7.315773789
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1998,1.255329578,1.309343604,0.951048999
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1998,4.339624903,4.457226988,4.151915183
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1998,27.23861853,27.77891208,26.59583106
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1998,30.6550764,31.32222718,29.99339341
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1998,28.97152868,29.42211927,28.54318029
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1998,1.531139563,2.617471929,0.684122496
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1998,1.552522405,2.724047453,0.667886819
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1998,1.541985458,2.329871745,0.84773928
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1998,42.96895623,43.96226696,41.79057843
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1998,11.60319687,11.94363187,11.20608743
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1998,27.05948364,27.63051582,26.34051598
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1997,0.582817172,0.603648969,0.559322626
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1997,1.44623007,1.487607062,1.399239851
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1997,1.020730264,1.04631666,0.993414726
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1997,22.42185141,27.27896911,14.91537655
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1997,20.52420937,24.31687378,13.38529405
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1997,21.45938919,25.09991722,14.94645046
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1997,1.493189342,2.550386182,0.672827302
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1997,1.526437659,2.690119038,0.661693482
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1997,1.510052506,2.287421597,0.830998829
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1998,14.38126883,17.42948359,12.66990449
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1998,6.881454819,8.678224014,5.876153373
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1998,10.57718157,12.95464236,9.242102952
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1998,43.45783963,45.80890908,41.77024844
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1998,31.37072201,33.07215269,30.17512891
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1998,37.32696091,38.917283,36.162261
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1998,14.81590442,16.4620031,13.56445967
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1998,10.86381437,12.46791425,9.872202803
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1998,12.81130865,14.038187,11.9582292
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1998,7.637052655,8.442091948,6.480970937
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1998,5.272708596,5.826728467,4.81507216
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1998,6.437800102,6.959134511,5.727844695
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1998,35.42994765,38.55466695,32.981897
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1998,29.74302623,32.32685688,27.64723534
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1998,32.54540341,34.9154293,30.60738873
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1997,44.75858615,45.83223968,43.4574657
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1997,12.179486,12.53928828,11.75160209
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1997,28.23484121,28.82826348,27.44442426
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1997,182.9565569,185.192772,180.5583369
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1997,156.9503233,158.7391097,155.3576257
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1997,169.7664942,171.2830178,168.2758279
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1997,30.05577071,30.82279985,29.12235149
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1997,11.40303179,11.85216662,11.03015636
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1997,20.59531604,21.07558766,19.97461178
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1997,66.65467132,67.70316071,65.38741936
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1997,8.742296166,8.927801026,8.533212057
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1997,37.28218063,37.8457026,36.61121583
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1997,7.005259839,11.88409945,5.335258894
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1997,4.46973462,7.071069176,3.550703269
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1997,5.719270607,9.462675973,4.456023626
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1997,19.61518988,20.0421039,19.22201263
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1997,27.09361699,27.55340385,26.62028811
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1997,23.40816211,23.72479778,23.02700134
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1997,0.001112038,0.001260534,0.000976194
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1997,0.004933064,0.005393427,0.004480374
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1997,0.003050019,0.003296376,0.002804311
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1997,7.183785811,7.390653363,6.989991933
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1997,1.181415963,1.23420574,0.889648521
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1997,4.139452851,4.253969009,3.96991606
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1997,26.55576556,27.10269441,25.99963572
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1997,30.08225058,30.75647583,29.43182057
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1997,28.34435821,28.77856424,27.90859234
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1997,15.87017604,19.04583049,14.05732904
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1997,7.265589418,9.120984599,6.217819121
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1997,11.50602866,14.01441245,10.08590068
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1997,44.88466913,47.55510358,42.98474791
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1997,32.13284339,34.08984425,30.84712089
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1997,38.41708976,40.36997093,37.14666111
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1997,16.24731819,18.09889465,14.88193864
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1997,11.8574721,13.59142923,10.73131307
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1997,14.02083874,15.42734623,13.0289141
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1998,183.635989,185.7917347,181.3703012
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1998,156.9068823,158.49564,155.338463
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1998,170.0783389,171.4191866,168.6992869
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1998,29.30751902,29.99868804,28.48573231
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1998,11.11218662,11.52217996,10.77201402
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1998,20.07840587,20.51731241,19.53380425
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1998,67.49682732,68.51006824,66.34960598
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1998,8.713475858,8.901246794,8.516866131
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1998,37.68048816,38.20492797,37.04940896
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1996,38.47372673,39.23862415,37.66856044
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1996,27.54202646,28.14115777,26.95059033
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1996,32.93020292,33.40920529,32.41999175
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1996,185.4904688,187.7220352,183.044285
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1996,159.6574739,161.3114477,158.0799852
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1996,172.3904186,173.8690074,170.8108681
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1996,30.80462357,31.63040966,29.75929177
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1996,11.92760707,12.42637922,11.5022267
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1996,21.23198732,21.74556352,20.5348124
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1996,8.321960106,9.053296656,7.743041409
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1996,6.103926408,6.728680931,5.687379668
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1996,7.197183329,7.738211026,6.822992164
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1996,36.98198016,37.74035858,36.28042444
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1996,18.81486546,19.16442454,18.47023372
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1996,27.76933891,28.20021751,27.36454148
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1997,8.162341798,9.0026397,6.847121547
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1997,5.618703346,6.199596241,5.136721959
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1997,6.872237627,7.405064179,6.082356407
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1997,36.89063639,40.16919078,34.17920169
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1997,30.73504787,33.55115696,28.45049688
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1997,33.76859268,36.24807619,31.69518835
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1996,65.55400629,66.66458547,64.22488809
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1996,8.760164053,8.946200546,8.530741434
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1996,36.75354445,37.35046561,36.04071607
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1996,88.50881299,92.32500507,86.89871961
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1996,75.01016664,76.00365544,74.05725726
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1996,81.66357707,83.71555746,80.63126498
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1996,0.576148972,0.596801508,0.553291928
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1996,1.437721011,1.478371945,1.394288756
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1996,1.013056771,1.038243544,0.987120572
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1996,22.91909,28.35076424,14.81469749
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1996,20.95236103,25.08109601,13.35441268
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1996,21.9217512,26.01262377,14.93714219
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1996,7.449694008,13.09430682,5.54955867
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1996,4.71841153,7.750118163,3.658381654
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1996,6.064646023,10.34135828,4.623753709
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1996,19.49523197,19.90480327,19.07299228
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1996,26.65452547,27.05922802,26.29321947
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1996,23.12574808,23.47878403,22.81904888
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1996,0.000679142,0.000779572,0.000588029
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1996,0.00436284,0.00478507,0.003949669
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1996,0.002547165,0.002767253,0.002331548
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1996,18.80854677,22.15838584,16.87476932
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1996,7.964528198,9.861374611,6.856880348
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1996,13.30948683,15.89736674,11.81357625
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1996,47.1993211,50.20277124,45.170066
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1996,33.54674029,35.59725405,32.1617271
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1996,40.27602418,42.42589407,38.91184444
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1996,18.32237411,20.41504603,16.75217665
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1996,13.42760218,15.4116793,12.15249435
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1996,15.84020903,17.41238222,14.72422692
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1996,8.681227989,9.536762253,7.192835642
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1996,5.967463054,6.589029324,5.450085453
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1996,7.305063244,7.859919294,6.416422697
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1996,38.43319784,41.76200796,35.66914596
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1996,32.09037584,35.14002893,29.75336898
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1996,35.2167188,38.01430885,33.0861775
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1996,1.453922084,2.524177418,0.655612137
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1996,1.500404991,2.673857135,0.648668324
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1996,1.477493816,2.249715351,0.810914916
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1996,45.99463922,47.15102584,44.62735377
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1996,12.74856166,13.13756886,12.26029524
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1996,29.13537508,29.75125602,28.27638803
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1996,6.920380691,7.121623823,6.729831068
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1996,1.116964299,1.170042796,0.823339996
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1996,3.97743713,4.090106,3.815238429
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1996,26.29701311,26.83894375,25.74007341
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1996,29.94696078,30.63151054,29.2826392
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1996,28.14792114,28.58870004,27.71272977
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2001,1.648597271,2.928213101,0.724272913
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2001,1.689707576,3.069789962,0.699653883
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2001,1.669448794,2.543039517,0.92940417
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2001,40.91441895,41.84084456,39.93032468
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2001,10.28893435,10.64274452,9.946432723
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2001,25.38089311,25.9019017,24.80484419
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2001,7.276323145,7.933283375,6.89442151
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2001,5.372096394,5.859304903,5.084204582
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2001,6.310481924,6.777853737,6.047849717
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2001,37.25357077,37.95255743,36.64041302
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2001,19.15845626,19.56525699,18.73715339
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2001,28.07556322,28.50000663,27.68582679
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2001,38.96951979,39.77802714,38.24929653
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2001,27.87101794,28.51213862,27.26209101
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2001,33.34025817,33.81376684,32.87745503
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2000,39.36754111,40.19685868,38.60828235
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2000,28.06122021,28.74536492,27.42483811
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2000,33.63281628,34.13399948,33.14043297
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2000,37.12790554,37.8179799,36.4984188
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2000,19.08163155,19.51922689,18.59607386
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2000,27.97458181,28.38675986,27.57913531
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2000,13.44684569,16.19614916,11.90923797
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2000,6.60634725,8.239626382,5.717636104
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2000,9.977248767,12.14250215,8.766886465
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2000,40.3723669,42.22211356,38.93100997
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2000,29.63494684,31.07381105,28.52352082
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2000,34.92619657,36.24265908,33.95675429
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2000,11.61168073,13.0029999,10.60843726
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2000,8.557181943,9.768612474,7.839553488
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2000,10.06239603,11.02369359,9.381157333
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2001,8.312632229,8.56930077,8.077424042
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2001,1.345022024,1.401865817,1.07249511
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2001,4.77859662,4.917115459,4.60251457
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2001,29.41546097,30.02349084,28.78714593
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2001,32.60405002,33.3209355,31.91860344
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2001,31.03274249,31.52439876,30.57160798
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2000,6.224747615,6.762548214,5.366687981
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2000,4.220728894,4.614305224,3.865087502
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2000,5.208281162,5.588285575,4.699991021
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2000,32.4734334,35.26787958,30.33887856
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2000,27.1814091,29.42527858,25.41367863
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2000,29.78924432,31.93902585,28.07382669
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2000,7.59441397,8.3140524,7.160818072
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2000,5.551041278,6.061443814,5.244406077
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2000,6.55798663,7.081394328,6.267919764
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2000,96.73424853,99.36402853,93.67031537
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2000,81.06780941,82.02289553,79.95833184
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2000,88.78801048,90.08758294,87.13014349
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2001,13.08060572,15.67819434,11.63874053
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2001,6.657186609,8.223368716,5.829121893
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2001,9.822588808,11.8476043,8.704927175
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2001,39.29896268,41.00414298,37.96104723
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2001,29.13740828,30.48866637,28.09908229
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2001,34.14492937,35.34478908,33.22594244
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2001,10.33342636,11.50669235,9.468632603
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2001,7.679123953,8.715073019,7.053214136
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2001,8.987139909,9.830963063,8.39269647
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2001,5.903950595,6.415010966,5.17683748
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2001,3.975690999,4.35696593,3.664989665
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2001,4.925919695,5.277013553,4.492688853
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2001,30.70701733,33.32192126,28.67049922
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2001,25.79227715,28.02456557,24.20713465
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2001,28.21421617,30.27709653,26.60694846
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,1999,37.18081621,37.83528238,36.54367712
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,1999,18.89500115,19.27278768,18.47937634
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,1999,27.90574487,28.30489633,27.5328106
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2000,6.044490989,9.581697695,4.76317555
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2000,3.915228719,5.803795944,3.219049516
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2000,4.964499247,7.675262262,4.001303105
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,1999,39.84105453,40.65398151,39.05154888
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,1999,28.41476702,29.02308266,27.80466798
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,1999,34.04532535,34.51676156,33.55860012
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2001,5.659910329,8.664418656,4.555345114
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2001,3.704604158,5.294180164,3.108737916
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2001,4.66816116,6.967603889,3.843218535
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2001,98.41585373,101.0151737,95.23004582
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2001,82.31307299,83.21087291,81.23725905
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2001,90.24837609,91.43677202,88.45992513
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2001,0.652996533,0.672586103,0.632015031
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2001,1.545933789,1.587533298,1.501256762
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2001,1.105902475,1.129445362,1.080346801
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2001,20.99992511,24.23004893,15.4098298
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2001,19.38093411,21.91797798,14.06481369
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2001,20.17875807,22.38009408,15.44798563
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2000,0.634478215,0.654292293,0.612718114
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2000,1.531641781,1.572475151,1.486504803
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2000,1.089532182,1.114708897,1.06380846
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2000,21.51149751,25.10632744,15.43583842
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2000,19.76758836,22.55386433,13.96591303
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2000,20.62696229,23.06021754,15.45288789
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2000,1.605340328,2.827959289,0.712130988
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2000,1.638427757,2.946649315,0.683956289
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2000,1.622122737,2.476992195,0.901299139
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2001,180.7064751,182.8391851,178.537381
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2001,153.5422837,155.4225589,151.7512825
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2001,166.9285488,168.5398815,165.5670379
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2001,27.58919775,28.22066748,26.906972
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2001,10.26163989,10.58256338,9.970013686
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2001,18.80050195,19.16906407,18.36681701
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2001,69.49114081,70.51517747,68.39939263
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2001,8.602166191,8.781284364,8.419330005
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2001,38.6076961,39.12030145,38.03874343
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2000,181.21076,183.3811574,179.1110437
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2000,154.2231532,156.0356505,152.5113795
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2000,167.5222666,169.0936481,166.1582448
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,1999,13.92770838,16.83282805,12.29707321
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,1999,6.654244941,8.39106636,5.716842827
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,1999,10.23840648,12.52824597,8.962883899
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,1999,42.03479571,44.05861516,40.45023934
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,1999,30.50479287,32.0711914,29.3618642
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,1999,36.18645925,37.65413178,35.13822678
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,1999,13.21241453,14.71882002,12.08392712
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,1999,9.710179044,11.08607796,8.872769763
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,1999,11.43598379,12.54080609,10.6482373
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,1999,6.606629693,7.22040443,5.596758701
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,1999,4.555641135,4.964814464,4.102502151
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,1999,5.566311549,5.972576643,4.972086973
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,1999,34.13709008,37.14318814,31.77965441
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,1999,28.65994757,30.98895628,26.69977399
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,1999,31.35893185,33.63280566,29.48704302
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2000,41.29469377,42.25274882,40.20941707
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2000,10.59101576,10.98118219,10.19679578
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2000,25.72135687,26.25999382,25.04672342
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2001,21.33898071,21.89611571,20.97109545
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2001,29.8999684,30.34574057,29.47263912
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2001,25.68119195,26.04091526,25.3703025
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2001,0.00136621,0.001532637,0.001215269
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2001,0.004733694,0.005163348,0.004314369
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2001,0.003074229,0.003306172,0.002845856
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,1999,67.7444204,68.81516924,66.59251018
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,1999,8.650794957,8.830938423,8.453297751
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,1999,37.77049853,38.30840232,37.16261631
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2000,20.89472641,21.43364027,20.49979104
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2000,29.15328295,29.60792424,28.64096666
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2000,25.08358232,25.42478195,24.72460348
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2000,0.001508706,0.001681605,0.00133688
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2000,0.00489309,0.005340247,0.004471839
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2000,0.003225313,0.003467149,0.002998218
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2000,8.04940514,8.294224474,7.822310465
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2000,1.31956102,1.377381274,1.043924543
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2000,4.635933642,4.766946738,4.452625464
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2000,28.79901094,29.38802047,28.17254828
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2000,32.12612772,32.80460539,31.48072466
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2000,30.48657132,30.95565406,30.02817251
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,1999,6.405560017,10.37522187,4.977326408
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,1999,4.129894533,6.239139067,3.358196589
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,1999,5.251279519,8.267876406,4.185186522
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,1999,20.53422614,21.05584925,20.16284808
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,1999,28.4446136,28.8695726,28.06420375
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,1999,24.54659353,24.92826074,24.23861374
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,1999,0.001541842,0.001729108,0.001369974
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,1999,0.00504221,0.00551312,0.004617178
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,1999,0.003317326,0.003566688,0.003080893
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,1999,183.2904843,185.4944919,181.0980853
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,1999,156.2790371,157.9363255,154.5753577
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,1999,169.5895309,170.9594881,168.2733618
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,1999,28.83086437,29.49997275,28.03666877
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,1999,10.87183293,11.27560529,10.53451307
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,1999,19.72154672,20.14208244,19.20445843
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,1999,7.906016236,8.641411818,7.431148159
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,1999,5.816057464,6.399098325,5.474222012
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,1999,6.845931321,7.407193831,6.517571242
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,1999,94.99466141,97.67176573,92.30245816
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,1999,79.94012617,80.88092645,78.95674975
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,1999,87.3585846,88.75756359,85.87970541
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,1999,7.795975165,8.026420168,7.587870804
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,1999,1.298643529,1.353859012,1.000474783
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,1999,4.500348787,4.627502319,4.320382633
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,1999,28.12533112,28.67878546,27.4708772
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,1999,31.56790939,32.27218593,30.90698626
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,1999,29.87150207,30.32958631,29.43750435
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2000,28.10698053,28.75990615,27.35834586
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2000,10.54523545,10.91290148,10.2383603
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2000,19.19941667,19.60412131,18.72304004
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2000,68.71006231,69.75614466,67.5538764
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2000,8.671513763,8.854084156,8.475983429
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2000,38.25766689,38.79132722,37.65780113
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,1999,0.620796812,0.641248855,0.598622813
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,1999,1.49771627,1.536735015,1.45356703
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,1999,1.065594624,1.089531962,1.039035725
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,1999,21.86445826,25.77915278,15.27618226
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,1999,20.05521346,23.15071789,13.80464966
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,1999,20.94675924,23.75257867,15.34771259
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,1999,1.567584204,2.728834529,0.700864933
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,1999,1.599044004,2.829570856,0.67426553
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,1999,1.583541485,2.411372328,0.875095243
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,1999,42.14578434,43.1254468,40.99738681
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,1999,11.12990543,11.46821405,10.73743685
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,1999,26.41367239,26.97358674,25.68989974
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2002,180.256527,182.464366,178.1173235
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2002,154.1723784,156.0318178,152.417818
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2002,167.0257241,168.5019083,165.6726756
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2002,27.14402644,27.75356472,26.52299263
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2002,10.17936806,10.48325086,9.898129207
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2002,18.53895158,18.91172296,18.14711453
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2002,38.69798339,39.50581579,37.94776337
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2002,27.91461492,28.50124718,27.34374354
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2002,33.22827744,33.70758544,32.77442046
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2002,70.37682722,71.39882166,69.26184282
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2002,8.58260361,8.755621076,8.400913808
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2002,39.03261104,39.55083239,38.46463038
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2002,6.897796524,7.459874131,6.552333203
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2002,5.09354888,5.519680405,4.847136362
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2002,5.982618294,6.374831229,5.730841278
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2002,99.93392438,102.3414857,96.59874958
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2002,83.70110623,84.63443157,82.59744003
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2002,91.70006478,92.79671832,89.81649159
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2002,5.400646453,8.095510361,4.415300338
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2002,3.581164217,5.021844157,3.043329199
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2002,4.477740699,6.537511336,3.741816999
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2002,21.84280729,22.45744827,21.51853344
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2002,30.84353426,31.26343289,30.45554311
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2002,26.40829441,26.82652412,26.14588252
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2002,37.32744116,38.03946095,36.68970771
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2002,19.36256312,19.75982554,18.96777879
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2002,28.21501951,28.6633021,27.81153487
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2002,0.661591286,0.680514271,0.641687192
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2002,1.588661677,1.632109526,1.542672161
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2002,1.131834183,1.154296136,1.106665411
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2002,20.55923597,23.56888234,15.46157799
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2002,19.0591694,21.4206719,14.20340615
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2002,19.79834914,21.81550722,15.53540082
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2002,1.694643805,3.030690328,0.737893075
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2002,1.735791126,3.223206478,0.713258526
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2002,1.715515181,2.634098336,0.955538196
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2002,41.07407729,41.95445051,40.14136049
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2002,10.22451289,10.57853947,9.896039012
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2002,25.42608692,25.92855347,24.89015101
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2002,0.001029362,0.00115785,0.000916934
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2002,0.005473166,0.005974113,0.004994648
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2002,0.003283416,0.00354587,0.003028013
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2002,12.73027072,15.23590167,11.35569814
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2002,6.518813176,7.983805253,5.724612265
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2002,9.579599723,11.54568532,8.507687555
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2002,38.58096317,40.1443071,37.35088742
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2002,29.1445783,30.35962386,28.10976722
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2002,33.79449495,34.83815324,32.92208972
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2002,9.32055595,10.35835813,8.539961238
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2002,7.034870665,7.92239077,6.501382292
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2002,8.161175517,8.902535682,7.617910583
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2002,5.588822445,6.081080901,4.9649121
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2002,3.712781735,4.069713761,3.438604399
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2002,4.637228232,4.966235216,4.249530873
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2002,29.03975998,31.70149533,27.09277005
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2002,24.48592646,26.56773601,23.03634321
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2002,26.72989453,28.65942721,25.16781418
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2002,8.490376231,8.746889293,8.257725137
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2002,1.37343906,1.429680911,1.084687946
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2002,4.880413937,5.018436869,4.703209914
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2002,29.99723977,30.62369314,29.37282434
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2002,33.32411119,34.08881903,32.60749363
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2002,31.68474664,32.1654009,31.20373727
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2005,177.9726737,180.4320348,175.9906637
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2005,151.4345265,153.4799511,149.6128595
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2005,164.5007527,166.2636975,163.1545938
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2005,25.49998429,26.11344568,24.9261041
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2005,9.882146173,10.16973472,9.626802782
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2005,17.57168848,17.97046591,17.22021148
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2005,36.83162322,37.60485435,36.16537025
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2005,26.91219153,27.56744566,26.2987847
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2005,31.79608705,32.28567163,31.37175676
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2005,37.93666179,38.68309586,37.22208523
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2005,20.04289101,20.42302329,19.66075487
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2005,28.85300329,29.27740082,28.44083475
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2005,66.82245437,67.78688437,65.79053247
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2005,8.456920154,8.639325462,8.287838838
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2005,37.19356356,37.69593444,36.66527608
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2005,11.85025678,14.08261848,10.68784726
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2005,6.399031751,7.685425105,5.721450502
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2005,9.082977196,10.82189413,8.182535598
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2005,37.28406404,38.60259697,36.11368282
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2005,29.04787127,30.17217363,28.08290844
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2005,33.10301336,34.0309503,32.31890329
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2005,7.019194023,7.814489517,6.430860701
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2005,5.554494852,6.145871233,5.157489468
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2005,6.27564884,6.81859534,5.874749384
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2005,4.907750922,5.264757984,4.556455414
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2005,3.220159878,3.503263631,2.998374811
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2005,4.051056103,4.263573492,3.823229499
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2005,24.94392531,27.17270451,23.1539235
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2005,21.00682235,22.74079762,19.75741279
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2005,22.94528013,24.58631645,21.54570827
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2005,5.00897681,7.600384101,4.04451336
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2005,3.364960916,4.711268412,2.841037544
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2005,4.174402638,6.113492058,3.455812437
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2005,23.36783872,23.87482766,22.84020653
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2005,33.43489108,33.93998443,32.86658809
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2005,28.47831358,28.85505383,28.01641681
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2004,6.122845149,6.517922041,5.841033386
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2004,4.503804,4.828900205,4.294316763
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2004,5.301269704,5.587185945,5.095213852
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2005,0.001032611,0.001147824,0.000927568
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2005,0.00738764,0.008052982,0.006746518
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2005,0.004258701,0.004600259,0.003911285
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2005,9.058187642,9.322341896,8.819225576
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2005,1.407678335,1.466987376,1.127137635
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2005,5.174455437,5.319296749,5.013755054
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2005,31.62068602,32.45682682,30.89813885
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2005,34.50672717,35.372221,33.57454447
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2005,33.08576639,33.68244795,32.4412599
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2004,103.7622503,106.1343355,100.0831153
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2004,86.35307068,87.34286048,85.25748145
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2004,94.92803722,96.13809717,92.88027909
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2004,0.688338202,0.708496615,0.666927397
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2004,1.660032776,1.703597005,1.613496982
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2004,1.18142042,1.20494616,1.156189759
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2004,19.99178447,22.50881929,15.74892509
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2004,18.60479865,20.63364579,14.58689688
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2004,19.2879645,21.00916126,15.83234158
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2005,5.566936468,5.908833687,5.328089931
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2005,4.139023323,4.418732219,3.953820903
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2005,4.842065476,5.084968292,4.668907846
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2005,103.8936403,106.4270088,100.292453
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2005,86.60883011,87.52744591,85.39640258
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2005,95.11911678,96.23001095,92.99839252
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2004,1.766060776,3.248800203,0.780374508
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2004,1.834143135,3.534293864,0.755992151
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2004,1.800608876,2.805504107,1.024099469
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2004,41.00321469,41.8171029,40.08844901
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2004,9.982790756,10.29851758,9.685496636
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2004,25.26203442,25.73173308,24.75434829
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2005,0.695033213,0.717372476,0.672399052
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2005,1.70038509,1.755313489,1.647538467
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2005,1.205393675,1.235729126,1.175210761
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2005,19.64568652,22.00644889,15.79233323
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2005,18.44632458,20.34108134,14.75549977
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2005,19.03683809,20.66566072,15.96394437
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2005,1.816465823,3.382051363,0.804616584
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2005,1.876175757,3.677186979,0.778496024
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2005,1.84677719,2.935167341,1.070258348
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2005,40.20909042,41.08675645,39.29306549
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2005,9.775464022,10.06683402,9.500608163
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2005,24.75965428,25.24181895,24.23286969
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2004,38.42969189,39.20502997,37.69029865
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2004,27.67700479,28.26445163,27.11123869
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2004,32.97328722,33.4640997,32.516349
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2004,37.81256593,38.67665459,37.07356834
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2004,19.83170725,20.26775259,19.42007365
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2004,28.68825678,29.25005766,28.2527594
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2004,5.188775395,7.789959326,4.238418876
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2004,3.46610693,4.824459761,2.950505201
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2004,4.314614716,6.273350072,3.605064328
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2004,23.07040272,23.73644756,22.69628494
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2004,32.66519768,33.1752187,32.23131239
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2004,27.93924002,28.44018142,27.65483085
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2004,0.000883495,0.000989208,0.000794619
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2004,0.006734423,0.007352294,0.006104348
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2004,0.003852523,0.004164106,0.003536517
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2004,182.4271118,184.6032212,180.2821537
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2004,154.767986,156.5904733,152.9973511
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2004,168.3916078,169.8116991,167.032995
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2004,26.42635985,27.030846,25.8217948
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2004,10.0620173,10.33812734,9.808768042
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2004,18.12234484,18.50083443,17.76050665
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2004,12.20494475,14.48941584,10.94171448
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2004,6.404910498,7.762298851,5.697935251
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2004,9.261742395,11.11738635,8.296452652
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2004,38.0547092,39.42689841,36.9293666
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2004,29.40929616,30.48002513,28.43038706
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2004,33.66763166,34.6160871,32.87759232
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2004,7.686694538,8.555234359,7.051979127
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2004,5.981994532,6.649281794,5.540758662
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2004,6.821651876,7.43594155,6.37143912
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2004,5.150226119,5.531940422,4.701235382
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2004,3.38577963,3.670660297,3.152584891
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2004,4.254865362,4.501170551,3.986392925
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2004,26.22831266,28.59172168,24.3337752
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2004,22.16556291,23.98484728,20.85068363
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2004,24.16668783,25.95788495,22.6770059
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2004,68.56979335,69.55819211,67.53785511
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2004,8.493639953,8.670627952,8.317185421
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2004,38.08440855,38.57435234,37.51928972
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2004,8.971406509,9.220323737,8.738475405
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2004,1.399300038,1.456378548,1.115188651
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2004,5.128973755,5.263385727,4.959746659
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2004,31.58650731,32.31364916,30.91912521
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2004,34.53888682,35.35505879,33.72291824
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2004,33.08467955,33.59786107,32.54099681
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2003,38.86181319,39.65449652,38.12733488
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2003,27.94464162,28.52947463,27.38553137
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2003,33.32340537,33.82314552,32.86732576
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2003,37.7657273,38.51056316,37.12436371
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2003,19.68258167,20.08823045,19.29593128
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2003,28.59193769,29.05562962,28.17095306
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2003,12.71792036,15.10551037,11.39498658
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2003,6.614277425,8.046342718,5.871839525
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2003,9.621471473,11.48143384,8.605591594
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2003,38.39002801,39.8917328,37.21657391
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2003,29.2821167,30.39520118,28.29522606
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2003,33.76947892,34.72661887,32.93717113
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2003,8.501948865,9.468325559,7.792141485
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2003,6.531966458,7.297136304,6.056605379
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2003,7.50255393,8.153138367,7.006196891
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2003,5.318932587,5.760480907,4.785507113
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2003,3.502232606,3.822908726,3.249706313
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2003,4.397299606,4.691973502,4.075081851
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2003,27.57197818,30.07974095,25.59619895
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2003,23.25323508,25.18922055,21.86583443
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2003,25.38102969,27.2666601,23.8394774
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2003,5.316270962,7.959926245,4.356080187
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2003,3.538870218,4.945481888,3.016564125
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2003,4.41457494,6.420842421,3.702888878
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2003,182.1661921,184.381875,180.0590876
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2003,155.0581747,156.9363251,153.2634574
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2003,168.4139803,169.8697135,167.0453845
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2003,6.579857791,7.055743221,6.264542261
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2003,4.848033056,5.222964831,4.622000785
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2003,5.701283007,6.037684943,5.474276616
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2003,26.78683902,27.42522082,26.20326819
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2003,10.18263424,10.45391993,9.921385023
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2003,18.36333326,18.74540444,17.99908447
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2003,69.98621014,71.02682486,68.92046067
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2003,8.533346363,8.713516444,8.349926682
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2003,38.81045925,39.3164606,38.26404958
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2003,22.57146467,23.22328753,22.23502521
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2003,31.89052637,32.34042744,31.48772627
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2003,27.2991328,27.7760464,27.02505672
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2003,0.000571498,0.000636997,0.000512181
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2003,0.0064066,0.006988673,0.005818767
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2003,0.003531713,0.00383183,0.003239848
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2003,102.307248,104.7098484,98.69405728
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2003,85.31405815,86.25431931,84.14305482
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2003,93.68640562,94.83311248,91.67683806
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2003,0.683887944,0.70365471,0.663458409
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2003,1.632612911,1.675736599,1.585713533
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2003,1.165187129,1.188857121,1.139949897
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2003,20.28405,23.12403372,15.61423683
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2003,18.8236787,20.99410013,14.41031016
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2003,19.54318669,21.39661085,15.6983371
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2003,8.734826286,8.987181574,8.501938225
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2003,1.39169133,1.450505221,1.105264244
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2003,5.009568714,5.145210902,4.834879812
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2003,30.87425449,31.56071772,30.24202902
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2003,34.02233887,34.80734298,33.24379066
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2003,32.47131423,32.94869779,31.97907781
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2003,1.740194932,3.156180177,0.770212574
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2003,1.797534426,3.385533775,0.741948675
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2003,1.769283923,2.721949685,0.994428918
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2003,41.07346676,41.92324647,40.14573254
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2003,10.09216891,10.43110011,9.779488967
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2003,25.35629486,25.83144056,24.84029279
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2006,177.7576063,180.2702099,175.7823669
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2006,151.5179245,153.4032172,149.7855787
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2006,164.4306336,166.2818717,163.029059
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2006,25.12335358,25.80270005,24.56587534
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2006,9.955793447,10.23067768,9.707663706
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2006,17.41984327,17.80298507,17.07515519
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2006,66.48172167,67.38600478,65.53582473
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2006,8.311248747,8.486189674,8.14990652
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2006,36.93729699,37.38239788,36.42487661
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2006,1.879742936,3.52480413,0.826408237
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2006,1.944528583,3.836509328,0.800254673
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2006,1.912647167,3.053786977,1.109898664
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2006,40.10799384,40.98765465,39.2311045
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2006,9.744373255,10.03006312,9.482466847
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2006,24.68649808,25.1503821,24.19748249
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2006,9.169561715,9.444126832,8.935515291
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2006,1.42430113,1.482974241,1.157303934
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2006,5.235791599,5.385063627,5.079464051
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2006,32.06124099,32.86328467,31.39686225
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2006,35.11393559,35.89806018,34.26083058
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2006,33.61168576,34.19778109,33.03730746
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2006,11.59141274,13.71313318,10.47178182
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2006,6.205826393,7.47429618,5.559075715
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2006,8.856106625,10.53450848,7.996404242
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2006,37.39387189,38.66128127,36.21086948
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2006,29.49226328,30.57626862,28.54701451
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2006,33.38069358,34.24510991,32.57891261
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2006,6.386949549,7.068174385,5.86896749
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2006,5.208079644,5.749111311,4.846265021
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2006,5.78820879,6.28441907,5.432114316
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2006,4.582081828,4.96349127,4.25615524
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2006,2.950101562,3.223543543,2.742404379
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2006,3.753209109,3.966308333,3.557691869
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2006,23.75427455,25.79690597,22.00821003
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2006,19.91175857,21.51778297,18.73897477
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2006,21.80268437,23.31704398,20.46233024
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2008,25.29901304,25.85013157,24.71118954
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2008,36.3888585,36.91718129,35.65445577
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2008,30.93844718,31.35294615,30.3764185
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2008,0.00103622,0.001147328,0.000930112
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2008,0.008187474,0.008870703,0.007531346
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2008,0.004672793,0.005033411,0.004318676
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2008,4.718493441,7.049968251,3.798619046
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2008,3.270589904,4.483480652,2.745039287
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2008,3.98220215,5.725333124,3.270203973
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2007,4.770651716,7.201654421,3.849183774
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2007,3.288837408,4.566109563,2.780709718
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2007,4.017609278,5.842253441,3.32064541
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2007,24.62723064,25.19665971,24.01494374
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2007,35.42261107,35.97024309,34.70914952
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2007,30.11332938,30.53611208,29.54408856
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2007,0.001008041,0.001126153,0.000901128
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2007,0.008446578,0.009191406,0.007738371
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2007,0.004788228,0.005171735,0.004417922
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2008,9.491432351,9.745660279,9.257186467
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2008,1.468973729,1.530368706,1.216164376
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2008,5.411832937,5.552506602,5.259350537
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2008,33.68400888,34.40018918,32.980582
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2008,36.52661396,37.34613299,35.74974071
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2008,35.12953706,35.67385226,34.60110647
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2007,9.346127179,9.61317558,9.118707479
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2007,1.446017112,1.506184006,1.183153662
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2007,5.331374376,5.484083785,5.170175089
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2007,32.78306993,33.54995087,32.10184173
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2007,35.81253693,36.59378108,34.9847818
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2007,34.32261318,34.91752451,33.74054542
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2008,179.386395,181.9933796,177.2637056
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2008,151.5474419,153.6504842,149.7827301
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2008,165.2296655,167.1194891,163.8220678
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2008,35.4768355,36.19359145,34.81099938
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2008,26.24782816,26.82509715,25.6901393
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2008,30.78367911,31.24962742,30.35015772
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2008,38.70582267,39.43560265,38.00575944
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2008,20.9489805,21.32158235,20.59032567
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2008,29.67607178,30.07552101,29.28042282
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2008,25.15694798,25.82822039,24.65366019
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2008,10.36497168,10.66163009,10.13145646
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2008,17.63489761,18.05867054,17.32805518
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2008,65.89687049,66.78113881,64.91621136
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2008,8.057107452,8.234747175,7.893630348
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2008,36.48405897,36.93084586,35.97708394
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2008,4.42355337,4.840844519,4.167545667
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2008,2.789171514,3.024045484,2.610899304
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2008,3.592433688,3.80829523,3.436224521
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2008,21.59010186,23.37215744,19.97083028
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2008,18.12149905,19.47843718,16.98575212
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2008,19.82623985,21.17282729,18.59315734
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2007,38.4163917,39.14299821,37.71482326
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2007,20.69533007,21.06580664,20.32983779
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2007,29.41073466,29.83288229,29.00117124
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2007,35.781522,36.48696933,35.11450071
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2007,26.41982044,27.02901018,25.84116677
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2007,31.02400378,31.4838284,30.58855234
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2008,11.57831392,13.49763213,10.53558353
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2008,6.359717994,7.501357213,5.76714096
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2008,8.924541318,10.40492665,8.116391244
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2008,38.29486536,39.45641651,37.02909103
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2008,30.54359122,31.59756049,29.62054325
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2008,34.35316931,35.19609661,33.53336097
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2008,5.197228341,5.672732545,4.813220721
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2008,4.434384441,4.802808393,4.152493765
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2008,4.809305178,5.161863705,4.535687941
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2007,11.52841826,13.57911553,10.43888542
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2007,6.157273922,7.383877119,5.543071866
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2007,8.798859227,10.36264511,7.959319926
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2007,37.75330286,38.98025329,36.53592077
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2007,29.97984595,31.0887495,29.04643935
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2007,33.80291386,34.66876205,32.96472206
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2007,5.748444998,6.304159941,5.29868241
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2007,4.787475057,5.255720504,4.464633509
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2007,5.260090187,5.682669253,4.947687889
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2007,4.526049721,4.926633663,4.243099716
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2007,2.890977169,3.135578876,2.696654234
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2007,3.695123056,3.899163745,3.52250786
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2007,22.67371142,24.55268936,20.94094931
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2007,18.96653038,20.48255064,17.86825515
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2007,20.78976103,22.23630821,19.57678859
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2008,4.56653797,4.756288556,4.404332175
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2008,3.418794337,3.58660868,3.298856417
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2008,3.982884695,4.123192074,3.87228625
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2008,108.1375422,111.3241077,104.3235841
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2008,90.33802013,91.34025033,89.23079319
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2008,99.08608764,100.5288784,96.95739836
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2008,0.760102155,0.782654487,0.738223889
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2008,1.879013761,1.930901532,1.827199493
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2008,1.329093701,1.358126539,1.300205885
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2008,19.32149974,21.07394477,16.3025274
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2008,18.39501327,19.91992397,15.25894398
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2008,18.85036067,20.22041828,16.71094379
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2008,2.022855187,3.792685913,0.872993374
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2008,2.104863033,4.214463429,0.837851753
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2008,2.064558009,3.299187839,1.164934428
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2008,40.40310204,41.22351402,39.64594892
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2008,9.636881529,9.898810214,9.399794427
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2008,24.75779166,25.17098161,24.31614983
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2006,36.15874555,36.89878981,35.49093698
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2006,26.6120536,27.21948168,26.03508479
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2006,31.31003955,31.76796064,30.8731623
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2006,38.09073446,38.84182183,37.39743053
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2006,20.32229104,20.68598828,19.96735527
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2006,29.06625156,29.48756772,28.67008763
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2007,178.2762071,180.9354166,176.2827484
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2007,151.3774578,153.4412987,149.6224137
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2007,164.6065458,166.5497264,163.2117516
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2007,25.02408564,25.68992497,24.49374159
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2007,10.10742438,10.3882745,9.868463822
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2007,17.44359536,17.84119912,17.12450283
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2007,4.835791576,5.07243478,4.64552367
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2007,3.618534689,3.827598263,3.479969445
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2007,4.217194435,4.382948287,4.089957445
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2007,106.7133674,109.6318179,102.7983504
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2007,89.27024923,90.26447692,88.08645914
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2007,97.8489583,99.01847987,95.66231806
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2007,66.02149407,66.91382383,65.04156524
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2007,8.13232097,8.307420913,7.966357332
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2007,36.60282547,37.04433379,36.09255204
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2006,5.141698102,5.426740174,4.928353218
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2006,3.836311252,4.080510782,3.677277953
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2006,4.478700167,4.680123205,4.331523534
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2007,0.737086398,0.760582426,0.714296233
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2007,1.840059982,1.891822576,1.785319097
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2007,1.297605967,1.32809149,1.267539984
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2007,19.32311125,21.35340055,16.21295119
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2007,18.33907466,19.97532504,15.09266352
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2007,18.82303421,20.26092136,16.3950594
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2007,1.946669293,3.686489076,0.844367768
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2007,2.022398158,4.036480065,0.824013925
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2007,1.985153905,3.19083067,1.142277135
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2007,40.13061619,40.96246548,39.3167867
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2007,9.651119821,9.925604497,9.403683656
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2007,24.64125687,25.08912769,24.17472934
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2006,105.1343118,107.6880606,101.4046011
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2006,87.96163118,88.94178547,86.76073744
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2006,96.41241317,97.55036812,94.18328778
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2006,0.7231455,0.74607409,0.699530474
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2006,1.781033796,1.832480327,1.729926424
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2006,1.260440446,1.288397779,1.231410317
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2006,19.4114885,21.59781734,15.97743369
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2006,18.35635304,20.09809702,14.84791443
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2006,18.8755917,20.38875234,16.1555822
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2006,4.876645881,7.38162746,3.943313632
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2006,3.319543728,4.630883103,2.8093949
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2006,4.085803294,5.980483991,3.385177829
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2006,23.95308597,24.49682305,23.36846382
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2006,34.3625952,34.86484881,33.76925049
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2006,29.24001155,29.6502278,28.73894582
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2006,0.001005574,0.001116268,0.000898828
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2006,0.008013056,0.008717866,0.007346691
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2006,0.004564631,0.004931654,0.004215953
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2009,35.53281665,36.23561957,34.86912227
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2009,26.44555269,27.00112174,25.87940337
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2009,30.90847772,31.36380733,30.4761319
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2009,39.10875047,39.8618207,38.41976922
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2009,21.29029429,21.69519814,20.90100365
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2009,30.04127087,30.46600611,29.66183008
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2009,11.43661679,13.32507353,10.43331351
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2009,6.283839327,7.348240906,5.708328612
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2009,8.814464566,10.29359054,8.038328407
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2009,39.31203751,40.50589024,38.06366531
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2009,31.82093705,32.8499506,30.8607143
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2009,35.49995638,36.30860256,34.66890111
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2009,4.738141093,5.152668094,4.396917226
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2009,4.112678572,4.401212314,3.867345065
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2009,4.419854896,4.716197789,4.187937512
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2009,4.439277623,4.86436446,4.189546091
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2009,2.803838424,3.03416661,2.635957685
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2009,3.607033156,3.818706965,3.455391947
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2009,20.52421672,22.07237822,18.96137003
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2009,17.42091317,18.84075737,16.37451071
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2009,18.9450035,20.19101128,17.76392812
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2009,4.372262147,4.530298245,4.229571941
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2009,3.296846156,3.438723878,3.190553465
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2009,3.825003032,3.942230122,3.728756527
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2009,4.644777307,6.859934441,3.722372066
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2009,3.250926165,4.397747746,2.716370376
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2009,3.935472491,5.598857422,3.226257595
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2009,109.7562443,113.4526849,106.1033424
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2009,91.79273649,92.91200313,90.80589942
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2009,100.6149506,102.3804226,98.59981714
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2009,0.774072126,0.795824193,0.752411477
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2009,1.920702722,1.973370366,1.87302191
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2009,1.357571024,1.38552783,1.330927387
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2009,19.47181335,21.02128288,16.66425599
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2009,18.68769036,20.14960095,15.75679494
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2009,19.0727878,20.38876159,17.0167338
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2009,26.07333381,26.62670243,25.49957217
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2009,37.629572,38.11265385,36.94603274
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2009,31.95408762,32.3587662,31.44316493
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2009,0.000980053,0.00108407,0.000882202
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2009,0.007737358,0.00843256,0.007093933
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2009,0.00441872,0.004768407,0.004071166
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2009,2.12623914,3.952606362,0.894943109
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2009,2.211311358,4.393727219,0.870904433
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2009,2.169530803,3.434757462,1.204958417
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2009,40.80707251,41.5975738,40.08999746
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2009,9.743457728,9.976653034,9.496554042
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2009,24.99937905,25.40376947,24.59368513
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2009,9.565282481,9.815053018,9.317246242
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2009,1.49432907,1.555094106,1.269382145
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2009,5.458125012,5.601181132,5.304954154
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2009,34.6083192,35.35298157,33.87159784
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2009,37.41792673,38.25196684,36.58972004
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2009,36.038076,36.56350575,35.47803807
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2009,180.6228976,183.0655105,178.4972251
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2009,152.8270106,154.8280949,151.1508326
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2009,166.4780898,168.2502528,165.1273148
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2009,25.1695174,25.86986806,24.68014027
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2009,10.55527191,10.84205794,10.31856317
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2009,17.73260079,18.16268658,17.43744477
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2009,66.22032487,67.08217831,65.23631377
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2009,8.105132811,8.282080167,7.943005055
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2009,36.64658891,37.09771204,36.14697091
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2012,4.308582323,6.031542002,3.471114388
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2012,3.093767829,3.996634513,2.60877671
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2012,3.689163541,4.995332806,3.048870075
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2012,28.51548693,29.276802,28.08302388
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2012,41.42191746,41.88300665,40.88849216
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2012,35.09631513,35.59661999,34.72525623
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2012,0.000330569,0.000367435,0.000297317
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2012,0.006877133,0.007513883,0.006267186
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2012,0.00366858,0.003992627,0.003354441
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2012,39.96418329,40.69961026,39.30226142
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2012,22.32515019,22.73012592,21.92347098
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2012,30.97025998,31.42678889,30.58697417
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2012,9.810234131,10.04509869,9.557024896
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2012,1.56714501,1.680338108,1.387346963
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2012,5.607185643,5.755432157,5.450528484
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2012,37.33142622,38.19218148,36.52486066
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2012,39.39844428,40.30998112,38.60085744
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2012,38.38537299,38.95925017,37.82602799
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2011,4.082727938,4.198131315,3.965996282
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2011,3.099710069,3.207966088,3.006788439
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2011,3.581812259,3.666887997,3.50541267
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2011,11.28490742,13.08695597,10.35370304
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2011,6.110728643,7.154369328,5.573452064
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2011,8.648305017,10.0613264,7.926919497
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2011,40.79432884,41.87386543,39.52483567
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2011,33.83669739,34.88605418,32.79164865
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2011,37.24893379,38.016504,36.40750466
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2011,3.928493899,4.212285113,3.662985942
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2011,3.659279334,3.864029376,3.471404803
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2011,3.791310435,4.001180634,3.610660529
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2011,4.138244009,4.60097354,3.921153752
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2011,2.605259249,2.813896948,2.442184016
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2011,3.357082114,3.580364183,3.223821337
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2011,18.04605723,19.3820898,16.66366192
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2011,15.40467441,16.58282032,14.41421753
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2011,16.70008976,17.8134239,15.62535356
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2011,183.6622071,185.9102367,181.2885748
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2011,155.4906225,157.3059859,153.8325912
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2011,169.3068339,170.805322,167.970009
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2012,3.931346546,4.043749137,3.820190541
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2012,2.988750138,3.085754652,2.8994766
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2012,3.450728376,3.532773415,3.377450636
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2012,183.0603074,185.1384096,180.6641832
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2012,154.7984512,156.8435321,153.0584148
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2012,168.6499389,170.1837008,167.3557793
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2012,25.18354631,25.99860821,24.74227025
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2012,11.21528968,11.52876636,10.98105506
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2012,18.06130621,18.54248906,17.7811691
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2011,2.341223541,4.279711373,0.945472437
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2011,2.455125013,4.839295141,0.908992409
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2011,2.399264228,3.732187875,1.292175817
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2011,41.19179631,41.93471363,40.48087623
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2011,9.704060168,9.936895164,9.447372664
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2011,25.1466142,25.54600224,24.76051377
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2012,11.01466805,12.78867321,10.13264553
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2012,6.037303074,7.072155426,5.533604394
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2012,8.476771632,9.868130677,7.791134257
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2012,41.33750211,42.41105123,39.97539172
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2012,34.56269244,35.62826668,33.46492085
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2012,37.88311103,38.66858314,36.99854833
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2012,3.700057718,3.953189937,3.469986164
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2012,3.503891728,3.697287169,3.339147094
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2012,3.600035122,3.791877933,3.434521474
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2012,3.919373095,4.419357952,3.726536262
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2012,2.47800768,2.682679563,2.308580648
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2012,3.18443882,3.431451613,3.053123319
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2012,16.88603805,18.12626333,15.619167
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2012,14.49820695,15.51120286,13.5456514
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2012,15.66851271,16.7011165,14.64419794
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2010,11.49371423,13.3683815,10.52702119
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2010,6.218261206,7.271575135,5.671109585
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2010,8.807279523,10.25532978,8.057682638
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2010,40.06321242,41.15835718,38.86383778
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2010,32.8257565,33.84593367,31.82420653
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2010,36.37766111,37.14043379,35.54264017
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2010,4.309107415,4.646234522,4.012964815
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2010,3.880426858,4.135133674,3.668392986
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2010,4.090809134,4.340883951,3.890471406
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2010,4.138172757,4.567189251,3.905614396
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2010,2.591727714,2.802525346,2.424608108
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2010,3.350671926,3.559633739,3.206408206
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2010,19.28226913,20.71905341,17.76638924
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2010,16.41227348,17.66814289,15.38849443
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2010,17.82077267,19.04787138,16.64894657
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2012,67.86439639,68.69437186,67.00754582
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2012,8.109208348,8.268428553,7.958057795
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2012,37.39597017,37.79685482,36.95306251
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2010,39.47672254,40.25904903,38.78794551
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2010,21.68794053,22.11558604,21.28233037
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2010,30.41808792,30.91036244,30.00654883
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2010,35.91125936,36.60013102,35.2015401
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2010,26.74766695,27.32813036,26.15774101
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2010,31.24485581,31.68622911,30.79496073
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2011,9.813604042,10.05025428,9.56630085
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2011,1.550239827,1.618692331,1.338143892
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2011,5.602847732,5.741556764,5.446680458
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2011,36.79121283,37.65429331,35.93020019
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2011,39.14923073,40.03398251,38.29720578
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2011,37.99278625,38.55562694,37.43120408
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2011,4.455782237,6.378843452,3.581632035
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2011,3.177960752,4.170302314,2.660032061
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2011,3.804643701,5.259986407,3.127114768
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2012,114.1131657,118.8342533,110.7985627
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2012,95.57532466,96.86822938,94.56034608
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2012,104.6609514,107.2903735,103.1159547
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2012,0.812260491,0.833457876,0.786047328
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2012,1.962887142,2.02632238,1.909506508
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2012,1.398950691,1.434334199,1.369708812
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2012,19.73672771,20.96685911,17.16561506
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2012,19.58303482,20.89435784,16.69488685
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2012,19.65836162,20.75881906,17.57771559
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2011,113.0724671,117.480994,109.4668407
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2011,94.68628619,95.99094654,93.72502717
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2011,103.7034346,105.9632932,101.996162
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2011,0.800114507,0.821104013,0.775309258
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2011,1.964684632,2.023649005,1.913621798
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2011,1.393543633,1.427196457,1.366069694
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2011,19.66396166,21.02032633,17.07137634
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2011,19.29509299,20.64778391,16.34621495
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2011,19.47599753,20.59791042,17.37602899
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2011,36.17943868,36.89160392,35.43483294
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2011,27.18634261,27.81181391,26.54548385
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2011,31.59683346,32.04984191,31.14442132
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2011,39.76821708,40.59730175,39.06267735
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2011,21.9864594,22.45893212,21.55918273
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2011,30.70718014,31.24508621,30.27933072
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2011,27.24286077,28.01280518,26.77668415
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2011,12.49095176,12.7766839,12.26590036
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2011,19.72574155,20.21453428,19.44510709
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2011,66.75548114,67.61891555,65.88396868
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2011,8.115195667,8.275620413,7.959054825
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2011,36.87419482,37.31199831,36.40693891
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2010,4.561577894,6.627015339,3.665755799
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2010,3.230065309,4.311591663,2.686018783
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2010,3.883527761,5.44121066,3.179396171
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2010,26.98711087,27.65580536,26.55115157
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2010,39.07147876,39.54512797,38.50357812
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2010,33.14086964,33.60322294,32.72582425
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2012,2.459866572,4.480815633,0.983144337
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2012,2.574308229,5.081703036,0.943757531
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2012,2.518218948,3.912815274,1.331743254
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2012,41.03896183,41.75594885,40.29379402
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2012,9.569815719,9.803685424,9.306877603
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2012,24.99323613,25.39372816,24.60060645
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2011,27.84820493,28.58375836,27.41250858
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2011,40.28483529,40.79759215,39.80092674
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2011,34.18552934,34.77467843,33.85400118
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2011,0.000545805,0.000604882,0.000492438
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2011,0.006873056,0.007496411,0.006284398
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2011,0.003769978,0.004086521,0.00346515
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2012,35.7021152,36.36402597,35.02723379
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2012,27.18634218,27.72256273,26.57734004
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2012,31.36002859,31.79337041,30.90882786
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2010,182.4439669,184.6769697,180.154759
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2010,154.1066446,156.1255351,152.4505851
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2010,168.0136676,169.6531938,166.7718507
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2010,25.45102613,26.17715718,24.98993454
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2010,11.03954318,11.33225741,10.8021362
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2010,18.1122236,18.5790115,17.82968568
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2010,66.43993458,67.33405843,65.51163012
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2010,8.089422507,8.264154226,7.928899042
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2010,36.72592894,37.18154614,36.24480299
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2010,0.000814213,0.000900631,0.000735178
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2010,0.007200444,0.007852701,0.006604025
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2010,0.004066292,0.004399847,0.003754529
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2010,9.675208114,9.928978284,9.42733266
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2010,1.528021814,1.597347006,1.308956157
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2010,5.526392088,5.665315817,5.372333
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2010,35.62755193,36.47567969,34.77285708
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2010,38.26208116,39.22630718,37.34131431
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2010,36.96914112,37.53996973,36.38247803
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2010,4.217728372,4.353194316,4.088177663
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2010,3.193381155,3.315716004,3.096132363
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2010,3.696096977,3.795302005,3.613894927
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2010,111.5654439,115.7444761,107.8631921
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2010,93.36163284,94.57524354,92.33955819
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2010,102.2954628,104.2890428,100.3968079
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2010,0.788214076,0.808416724,0.767034853
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2010,1.953828301,2.008947396,1.902725523
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2010,1.381783291,1.410598154,1.354857114
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2010,19.56595554,20.97605502,16.90684047
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2010,19.00203189,20.4009363,16.09074486
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2010,19.27878701,20.46385929,17.17422736
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2010,2.227600465,4.102939662,0.915224779
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2010,2.340196759,4.630293364,0.895436297
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2010,2.284938213,3.576427845,1.251676961
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2010,41.08090895,41.80070066,40.34763518
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2010,9.770948785,10.00592329,9.504024518
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2010,25.13684437,25.53150198,24.74337152
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2013,4.233523911,5.919705461,3.376762522
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2013,3.063235674,3.918426423,2.559249212
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2013,3.636451681,4.896048464,2.974959255
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2013,29.31551885,30.16557001,28.82874331
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2013,42.65024924,43.16554758,42.10908358
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2013,36.11879771,36.69469876,35.75877367
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2013,0.000275125,0.00030689,0.000246639
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2013,0.006673053,0.007347607,0.006041177
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2013,0.0035393,0.00388604,0.003208016
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2013,9.819734242,10.06329828,9.574504359
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2013,1.583760936,1.729494117,1.42994525
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2013,5.61780279,5.771561496,5.465263306
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2013,38.13883036,38.9975487,37.27967593
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2013,39.84344285,40.76695479,39.03482884
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2013,39.0085108,39.59884577,38.4511517
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2013,35.73614145,36.40365632,35.00478933
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2013,27.46482796,28.01762314,26.87691447
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2013,31.5161797,31.97555382,31.03728643
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2013,40.18646883,40.89080487,39.51792078
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2013,22.58760025,23.00792327,22.1622821
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2013,31.20765884,31.61910329,30.81751638
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2013,11.24300281,12.9707943,10.37669586
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2013,5.947520648,6.923438756,5.45791724
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2013,8.54128776,9.893104685,7.866751836
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2013,42.25763234,43.37984037,40.84521064
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2013,35.58220613,36.70126184,34.45290834
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2013,38.85188024,39.69287562,37.99718362
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2013,3.529082053,3.754497418,3.319028364
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2013,3.399355953,3.576408751,3.252401567
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2013,3.462896775,3.636310338,3.310203012
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2013,3.718577185,4.230704124,3.532830431
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2013,2.339649363,2.530816634,2.178680014
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2013,3.015058612,3.280343573,2.889255237
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2013,15.80682949,16.97831888,14.60288003
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2013,13.73324973,14.70017802,12.77794975
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2013,14.74890474,15.72344394,13.74568942
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2013,183.730686,185.7860357,181.0502286
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2013,155.2414809,157.280942,153.5271773
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2013,169.1957085,170.7419372,167.860577
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2013,25.39273452,26.22445353,24.95196086
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2013,11.57215772,11.90065391,11.33445079
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2013,18.34158049,18.81685641,18.06939144
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2013,3.848914624,3.95940031,3.747328455
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2013,2.920279315,3.015477867,2.833192811
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2013,3.375131894,3.448672046,3.305348635
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2013,115.5716269,120.816628,112.4770371
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2013,96.5024742,97.8777141,95.50225773
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2013,105.8426891,108.7031503,104.4080053
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2013,69.8976188,70.66644755,69.05489876
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2013,8.478955126,8.643355389,8.32792964
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2013,38.56227991,38.9709956,38.1466335
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2013,0.819087031,0.842004521,0.792573676
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2013,1.970911032,2.043095629,1.911285377
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2013,1.406738947,1.444967286,1.375137355
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2013,19.85443318,21.0160141,17.33522898
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2013,19.8714388,21.142417,16.97648099
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2013,19.86310932,20.94440289,17.73686618
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2013,2.58083607,4.67170999,1.007622352
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2013,2.694079127,5.289373404,0.957722127
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2013,2.638611823,4.065073164,1.365587912
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2013,40.2427124,41.00194027,39.47295661
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2013,9.317160158,9.539084674,9.061113716
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2013,24.46472893,24.88355317,24.06303086
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2016,25.56852035,26.39509573,25.01090397
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2016,12.23693429,12.565352,11.95162504
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2016,18.75572029,19.25497168,18.43945533
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2016,71.5705489,72.49653223,70.63215161
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2016,8.673647409,8.864154116,8.514523774
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2016,39.42853576,39.89893601,38.94836952
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2016,37.37320984,38.49752908,35.99769961
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2016,8.719143631,8.943027051,8.468800115
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2016,22.73020914,23.32538362,22.09267699
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2016,10.13591768,10.4681259,9.753445797
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2016,1.709708128,1.947841744,1.560833651
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2016,5.829897325,6.025182652,5.618962721
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2016,41.38540557,42.27472726,40.57682695
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2016,42.65641015,43.71513852,41.64735882
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2016,42.0349232,42.731359,41.40874866
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2016,32.49579319,33.33190812,31.99418385
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2016,47.95298043,48.62870434,47.23956368
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2016,40.39483279,40.92195967,39.97029663
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2016,0.000294983,0.00034017,0.000251023
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2016,0.007024805,0.007984217,0.005901287
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2016,0.003734104,0.004222671,0.003157499
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2016,0.861307768,0.885942813,0.834261979
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2016,2.056533702,2.143909806,1.9669721
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2016,1.472100458,1.518237089,1.424544176
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2016,19.78245503,20.80125872,17.45429235
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2016,20.87159393,22.06526887,18.06341124
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2016,20.33903439,21.25565252,18.43581796
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2016,3.062632119,5.352652986,1.142930759
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2016,3.180658116,6.1479669,1.030016592
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2016,3.122946587,4.639535001,1.511375485
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2016,3.764263671,3.922116759,3.642643507
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2016,2.844304959,2.937935446,2.751374616
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2016,3.294139955,3.385381413,3.216549622
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2016,122.4841009,129.0389951,119.5913348
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2016,102.5079925,104.0427004,101.3277142
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2016,112.2757707,115.7157849,110.8879424
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2016,4.239684185,5.9029456,3.319585922
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2016,3.084901225,3.93175848,2.540816921
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2016,3.649558945,4.888336525,2.939445916
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2016,191.2314837,193.5014774,188.2453314
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2016,163.4088699,165.8966613,161.3183865
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2016,177.0133776,178.5969403,175.3785969
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2016,36.98656395,37.95538881,36.10632431
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2016,29.41798161,30.17858045,28.57447622
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2016,33.11881423,33.72583968,32.51508313
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2016,42.19203568,43.24329757,40.99254767
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2016,24.30670334,24.83641282,23.82794199
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2016,33.05214845,33.62220022,32.43094743
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2016,10.61300582,12.30444755,9.801381406
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2016,5.736920356,6.718793468,5.282069175
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2016,8.121194627,9.459939992,7.49834424
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2016,45.17453112,46.67619392,43.65594903
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2016,39.21183393,40.64854567,37.84257653
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2016,42.12743203,43.13985809,41.11623794
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2016,3.184635696,3.397274331,2.99633053
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2016,3.241068334,3.391799943,3.096830001
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2016,3.213474296,3.36403104,3.07835414
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2016,3.503631874,4.082338942,3.290593199
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2016,2.18940575,2.393717288,2.040051956
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2016,2.832026877,3.1153223,2.694989393
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2016,12.46906666,13.48343445,11.37805989
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2016,11.15791012,11.97304482,10.39062596
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2016,11.79903031,12.62722012,10.85148495
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2015,3.699102487,3.825766974,3.594746646
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2015,2.822572873,2.915308552,2.737332467
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2015,3.251407196,3.3315854,3.17953049
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2015,118.4537105,124.6726321,115.5606371
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2015,99.58715792,100.9796412,98.51594456
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2015,108.8174511,112.0631775,107.5842241
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2015,0.836677912,0.859311265,0.810449368
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2015,1.997092931,2.073320614,1.916797082
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2015,1.429370196,1.471416981,1.386691157
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2015,19.77123921,20.76762476,17.27531407
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2015,20.54281869,21.75426731,17.72802494
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2015,20.16533028,21.13349332,18.22752382
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2015,2.869697686,5.068241723,1.098299603
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2015,3.013139477,5.875036748,0.996147018
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2015,2.942961855,4.442852001,1.451802984
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2015,37.89907986,38.79012011,37.06461089
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2015,8.761804858,8.968487209,8.529945705
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2015,23.0169577,23.50616117,22.59381447
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2015,36.00692516,36.7568369,35.25349378
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2015,28.48610566,29.20774763,27.8030774
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2015,32.16559976,32.68658807,31.66222775
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2015,40.86837996,41.73952949,39.8322619
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2015,23.58544456,24.08265863,23.11915734
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2015,32.04096711,32.54974867,31.48786313
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2014,35.54018484,36.23563165,34.80766677
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2014,27.71103387,28.33617829,27.10389198
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2014,31.54352541,32.02018234,31.05673701
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2014,40.32198009,41.01251748,39.55442457
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2014,23.00099105,23.41667621,22.5764212
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2014,31.4798854,31.91374183,31.05108591
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2015,185.3997929,187.5218725,182.6671613
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2015,158.5248527,160.862038,156.5475516
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2015,171.6731783,173.2443367,170.1451565
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2015,25.13796409,25.96142909,24.62568754
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2015,11.90041576,12.23952168,11.63960958
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2015,18.37676863,18.86183997,18.05943401
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2015,70.23744226,71.02113074,69.38769482
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2015,8.477155572,8.665430656,8.318964199
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2015,38.69282695,39.12347593,38.26509383
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2014,4.176069449,5.83566407,3.314879043
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2014,3.038013448,3.885213993,2.532641157
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2014,3.595109614,4.836740092,2.94101634
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2015,4.174743991,5.829510425,3.274717331
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2015,3.057221419,3.908636686,2.520785781
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2015,3.603959406,4.83164156,2.910828066
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2015,31.10639869,31.93778367,30.65326507
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2015,46.01120584,46.66215555,45.33155941
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2015,38.7191614,39.2402981,38.30858857
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2015,0.000322898,0.000366568,0.000281885
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2015,0.006595644,0.007385166,0.005738585
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2015,0.003526758,0.003929832,0.003098473
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2015,10.89772991,12.5665004,10.06757465
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2015,5.791707621,6.746915497,5.320120563
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2015,8.289783645,9.592862943,7.656128672
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2015,43.71295416,45.07408803,42.27799541
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2015,37.83316667,39.2111569,36.53352126
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2015,40.70980044,41.64387833,39.78902405
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2015,3.21275695,3.426138378,3.02626584
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2015,3.219437095,3.368419381,3.083580521
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2015,3.216168893,3.369224804,3.083845028
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2015,3.503323962,4.058001106,3.3058366
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2015,2.201656947,2.412231945,2.054014293
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2015,2.838485966,3.125317012,2.707518593
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2015,13.56319756,14.67102622,12.43918318
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2015,11.97574977,12.8317824,11.16171164
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2015,12.75239449,13.6225515,11.80636381
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2014,30.0659175,30.90804387,29.60815179
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2014,44.1507172,44.70597446,43.51428893
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2014,37.25598802,37.79272633,36.86143891
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2014,0.000263716,0.000296781,0.000234679
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2014,0.006992782,0.007743146,0.006226915
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2014,0.003698799,0.00408831,0.003307164
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2015,9.787874198,10.07048651,9.485486292
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2015,1.63219618,1.851101952,1.499903436
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2015,5.622289168,5.792493495,5.444194441
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2015,39.66373213,40.53277742,38.85316889
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2015,41.15196361,42.13626776,40.26085721
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2015,40.42385958,41.04295266,39.85200812
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2014,11.15176014,12.80870102,10.32600891
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2014,5.770044022,6.712209327,5.289685705
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2014,8.404478019,9.710147155,7.750766406
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2014,42.78385875,44.06545491,41.40501272
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2014,36.54655538,37.81605846,35.3299809
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2014,39.59981268,40.50334222,38.7343072
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2014,3.326780897,3.53939842,3.13739267
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2014,3.272633783,3.43278067,3.134508308
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2014,3.29913964,3.462365791,3.157664157
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2014,3.597440538,4.136509609,3.413444896
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2014,2.260249656,2.456741289,2.105774125
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2014,2.914825453,3.186654301,2.789411406
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2014,14.70972181,15.83649635,13.55835006
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2014,12.90913176,13.83142368,12.04971994
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2014,13.79054868,14.72676602,12.8212052
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2014,9.747226199,10.00786397,9.484813656
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2014,1.592794868,1.781237204,1.469003287
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2014,5.584516217,5.744934893,5.420942289
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2014,38.71481232,39.5622333,37.84732391
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2014,40.20845946,41.1275613,39.35651488
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2014,39.47729588,40.06748133,38.9328317
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2014,3.741695831,3.851208586,3.642322874
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2014,2.836416289,2.92702808,2.751626326
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2014,3.279564747,3.351916407,3.210940153
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2014,70.72236684,71.51696037,69.84268437
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2014,8.540120366,8.713531769,8.38227363
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2014,38.97930008,39.40134339,38.54876622
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2014,116.5419722,122.2699228,113.6259488
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2014,97.49613976,98.86579199,96.49131574
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2014,106.8193718,109.7828052,105.5093959
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2014,0.825684178,0.848642316,0.798669272
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2014,1.976067296,2.046873727,1.909773877
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2014,1.412936813,1.4520207,1.376678718
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2014,19.90800867,21.00878811,17.31186082
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2014,20.21397348,21.42239281,17.35095135
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2014,20.06419893,21.08593609,18.03778176
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2014,183.5490614,185.6497179,180.8600768
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2014,155.7441506,157.9659536,153.895525
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2014,169.3550882,170.9192566,168.0072601
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2014,25.15839531,25.98439166,24.68373191
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2014,11.66653135,11.99617844,11.42764899
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2014,18.27100924,18.75994804,17.98654258
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2014,2.708329422,4.83558783,1.051135468
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2014,2.840104605,5.568505763,0.971377578
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2014,2.775598597,4.222021398,1.402016172
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2014,39.41856074,40.25153323,38.60363051
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2014,9.063348215,9.272557958,8.824887294
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2014,23.9226983,24.35774071,23.49864474
+Deaths,Brazil,Male,All Ages,344 - Neglected tropical diseases and malaria,2017,4.30743542,5.909454252,3.376258353
+Deaths,Brazil,Female,All Ages,344 - Neglected tropical diseases and malaria,2017,3.106543707,3.917413945,2.58357617
+Deaths,Brazil,Both,All Ages,344 - Neglected tropical diseases and malaria,2017,3.693424891,4.884765907,2.994145529
+Deaths,Brazil,Male,All Ages,542 - Neurological disorders,2017,33.57715621,34.39396647,32.88637386
+Deaths,Brazil,Female,All Ages,542 - Neurological disorders,2017,49.77181338,50.56503501,48.90860396
+Deaths,Brazil,Both,All Ages,542 - Neurological disorders,2017,41.85741154,42.40810048,41.33975806
+Deaths,Brazil,Male,All Ages,558 - Mental disorders,2017,0.000359819,0.000425053,0.000296267
+Deaths,Brazil,Female,All Ages,558 - Mental disorders,2017,0.007818424,0.009131145,0.006051472
+Deaths,Brazil,Both,All Ages,558 - Mental disorders,2017,0.00417337,0.004853548,0.003276168
+Deaths,Brazil,Male,All Ages,508 - Chronic respiratory diseases,2017,38.33229417,39.3738625,37.33135486
+Deaths,Brazil,Female,All Ages,508 - Chronic respiratory diseases,2017,30.53259123,31.48189515,29.41774519
+Deaths,Brazil,Both,All Ages,508 - Chronic respiratory diseases,2017,34.34434116,35.08928563,33.5662187
+Deaths,Brazil,Male,All Ages,526 - Digestive diseases,2017,43.94612962,45.56778611,42.14506379
+Deaths,Brazil,Female,All Ages,526 - Digestive diseases,2017,24.99155299,25.70387859,24.35960427
+Deaths,Brazil,Both,All Ages,526 - Digestive diseases,2017,34.25473989,35.17664277,33.24171013
+Deaths,Brazil,Male,All Ages,973 - Substance use disorders,2017,10.72860215,11.19959548,10.13434728
+Deaths,Brazil,Female,All Ages,973 - Substance use disorders,2017,1.815590727,2.051831844,1.623013181
+Deaths,Brazil,Both,All Ages,973 - Substance use disorders,2017,6.171419518,6.420986369,5.877777682
+Deaths,Brazil,Male,All Ages,974 - Diabetes and kidney diseases,2017,42.58656561,43.57032502,41.70123324
+Deaths,Brazil,Female,All Ages,974 - Diabetes and kidney diseases,2017,44.12972255,45.34817556,42.98071786
+Deaths,Brazil,Both,All Ages,974 - Diabetes and kidney diseases,2017,43.37557481,44.16539406,42.64446165
+Deaths,Brazil,Male,All Ages,955 - HIV/AIDS and sexually transmitted infections,2017,10.60384666,12.26519453,9.814655156
+Deaths,Brazil,Female,All Ages,955 - HIV/AIDS and sexually transmitted infections,2017,5.747129474,6.704496877,5.28430133
+Deaths,Brazil,Both,All Ages,955 - HIV/AIDS and sexually transmitted infections,2017,8.12062902,9.407550372,7.510592728
+Deaths,Brazil,Male,All Ages,956 - Respiratory infections and tuberculosis,2017,45.4231511,46.96816627,43.87944433
+Deaths,Brazil,Female,All Ages,956 - Respiratory infections and tuberculosis,2017,39.50725661,41.06497565,38.06495888
+Deaths,Brazil,Both,All Ages,956 - Respiratory infections and tuberculosis,2017,42.39838087,43.50392458,41.29837878
+Deaths,Brazil,Male,All Ages,957 - Enteric infections,2017,3.190537309,3.400233153,2.982246186
+Deaths,Brazil,Female,All Ages,957 - Enteric infections,2017,3.281193891,3.450755728,3.12732061
+Deaths,Brazil,Both,All Ages,957 - Enteric infections,2017,3.236889611,3.395502028,3.088448484
+Deaths,Brazil,Male,All Ages,961 - Other infectious diseases,2017,3.564158325,4.131016963,3.318018905
+Deaths,Brazil,Female,All Ages,961 - Other infectious diseases,2017,2.182991134,2.382101576,2.029968159
+Deaths,Brazil,Both,All Ages,961 - Other infectious diseases,2017,2.857973756,3.134126189,2.700617877
+Deaths,Brazil,Male,All Ages,962 - Maternal and neonatal disorders,2017,11.62684897,12.6076125,10.53905855
+Deaths,Brazil,Female,All Ages,962 - Maternal and neonatal disorders,2017,10.41891693,11.18448263,9.636187843
+Deaths,Brazil,Both,All Ages,962 - Maternal and neonatal disorders,2017,11.00923875,11.81679316,10.07770228
+Deaths,Brazil,Male,All Ages,491 - Cardiovascular diseases,2017,197.34653,200.3662549,194.1397116
+Deaths,Brazil,Female,All Ages,491 - Cardiovascular diseases,2017,169.8883172,172.9886865,167.1654525
+Deaths,Brazil,Both,All Ages,491 - Cardiovascular diseases,2017,183.3072694,185.3985479,181.2048155
+Deaths,Brazil,Male,All Ages,696 - Unintentional injuries,2017,25.57424479,26.47089007,24.88954294
+Deaths,Brazil,Female,All Ages,696 - Unintentional injuries,2017,12.29931491,12.65618886,11.99573274
+Deaths,Brazil,Both,All Ages,696 - Unintentional injuries,2017,18.78683289,19.35730625,18.39478395
+Deaths,Brazil,Male,All Ages,717 - Self-harm and interpersonal violence,2017,67.77787658,68.91952609,66.52584177
+Deaths,Brazil,Female,All Ages,717 - Self-harm and interpersonal violence,2017,7.77258998,7.990517039,7.554386239
+Deaths,Brazil,Both,All Ages,717 - Self-harm and interpersonal violence,2017,37.09744358,37.69307137,36.48475943
+Deaths,Brazil,Male,All Ages,386 - Nutritional deficiencies,2017,3.877867416,4.104134374,3.736192218
+Deaths,Brazil,Female,All Ages,386 - Nutritional deficiencies,2017,2.93927602,3.043425592,2.828126798
+Deaths,Brazil,Both,All Ages,386 - Nutritional deficiencies,2017,3.397969859,3.523052982,3.303593734
+Deaths,Brazil,Male,All Ages,410 - Neoplasms,2017,126.7462197,133.9045951,123.7266054
+Deaths,Brazil,Female,All Ages,410 - Neoplasms,2017,105.0513867,107.0989807,103.2221161
+Deaths,Brazil,Both,All Ages,410 - Neoplasms,2017,115.6537493,119.3773966,113.8707145
+Deaths,Brazil,Male,All Ages,626 - Musculoskeletal disorders,2017,0.887750206,0.91926704,0.855632571
+Deaths,Brazil,Female,All Ages,626 - Musculoskeletal disorders,2017,2.101260409,2.212806703,1.996115382
+Deaths,Brazil,Both,All Ages,626 - Musculoskeletal disorders,2017,1.508212512,1.565939964,1.451625625
+Deaths,Brazil,Male,All Ages,640 - Other non-communicable diseases,2017,19.37178266,20.44390175,17.1683099
+Deaths,Brazil,Female,All Ages,640 - Other non-communicable diseases,2017,20.54805026,21.71944855,17.81608494
+Deaths,Brazil,Both,All Ages,640 - Other non-communicable diseases,2017,19.97320299,20.8590109,18.19762995
+Deaths,Brazil,Male,All Ages,653 - Skin and subcutaneous diseases,2017,3.173227779,5.606163768,1.200261397
+Deaths,Brazil,Female,All Ages,653 - Skin and subcutaneous diseases,2017,3.256451134,6.35272024,1.056000458
+Deaths,Brazil,Both,All Ages,653 - Skin and subcutaneous diseases,2017,3.215779506,4.836421416,1.565642735
+Deaths,Brazil,Male,All Ages,688 - Transport injuries,2017,37.1786676,38.71634183,34.89342127
+Deaths,Brazil,Female,All Ages,688 - Transport injuries,2017,8.841052914,9.129198794,8.544938941
+Deaths,Brazil,Both,All Ages,688 - Transport injuries,2017,22.68977274,23.50624401,21.67406853
