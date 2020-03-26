@@ -9,7 +9,7 @@ Desenvolvimento de gráficos com a biblioteca D3JS.
 1. Timeline
 2. [Histograma](histograma.html)
 3. Barras Empilhadas
-4. Boxplot
+4. [Boxplot](boxplot.html)
 5. Dispersão
 6. Radar
 
