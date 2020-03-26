@@ -23,6 +23,10 @@
     <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300" rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+    <!-- load the d3.js library -->
+    <script src="d3.min.js"></script>
+    <script src="RadarChart.js"></script>
 </header>
 
 <body>
@@ -51,7 +55,6 @@
                 <hr />
 
                 <div class="radarChart"></div>
-                <script src="radarChart.js"></script>
 
                 <legend id="legend" style="text-align: left;">
                 </legend>
@@ -72,8 +75,7 @@
                 </sub>
     </div>
 
-    <!-- load the d3.js library -->
-    <script src="d3.min.js"></script>
+    
     <script>
         var data = null;
 
